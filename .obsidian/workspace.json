@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Installing light fixture.md",
+                "file": "Test sync.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Installing light fixture.md",
+                "file": "Test sync.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Installing light fixture.md",
+                "file": "Test sync.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Installing light fixture.md"
+                "file": "Test sync.md"
               }
             }
           }
@@ -156,10 +156,11 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "0ab72d3da022458b",
+  "active": "e520de0e36ff2026",
   "lastOpenFiles": [
-    "Stretching moves.md",
     "Installing light fixture.md",
+    "Test sync.md",
+    "Stretching moves.md",
     "2023-02-03.md",
     "2023-02-01.md",
     "Brighton.md",
