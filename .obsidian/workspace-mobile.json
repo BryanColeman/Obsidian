@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test sync.md",
+                "file": "Dogs.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Test sync.md",
+            "file": "Dogs.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Test sync.md",
+            "file": "Dogs.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -122,7 +122,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Test sync.md"
+            "file": "Dogs.md"
           }
         }
       }
@@ -142,8 +142,8 @@
   },
   "active": "19aaef2255c077eb",
   "lastOpenFiles": [
-    "Dogs.md",
     "Test sync.md",
+    "Dogs.md",
     "Dogs",
     "/Test sync.md",
     "Stretching moves.md"
