@@ -1,1 +1,1 @@
-Auto sync - 2:1
+Auto sync - 2:10
