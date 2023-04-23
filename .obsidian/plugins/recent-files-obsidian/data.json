@@ -3,6 +3,10 @@
     {
       "basename": "Installing light fixture",
       "path": "Installing light fixture.md"
+    },
+    {
+      "basename": "Stretching moves",
+      "path": "Stretching moves.md"
     }
   ],
   "omittedPaths": [],
