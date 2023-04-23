@@ -1,8 +1,5 @@
 - Odyn
 - Noah
 - Cooper
-- Nariz
 - Marcos
-- Divine 
-- Champ 
-- Jill
+- Champ
