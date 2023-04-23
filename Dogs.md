@@ -1,9 +1,8 @@
 - Odyn
-  - 3
 - Noah
   - 2
 - Cooper
   - 1
 - Marcos
-  - p
+  - 3
 - Champ
