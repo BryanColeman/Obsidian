@@ -1,5 +1,5 @@
 - Clean carpets
-- Update Rlresume
+- Update resume
 - Guest bath
 	- Closet trim 
 	- Curtain rod 
