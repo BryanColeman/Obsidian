@@ -1,0 +1,9 @@
+- Clean carpets
+- Update Rlresume
+- Guest bath
+	- Closet trim 
+	- Curtain rod 
+	- Finish ceiling
+	- Flip door 
+- Move notes to Obsidian
+- Todoist Labels
