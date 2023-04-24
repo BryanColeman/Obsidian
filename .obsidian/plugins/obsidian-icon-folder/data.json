@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": "#8f70ff",
     "recentlyUsedIcons": [
+      "RiGitRepositoryLine",
+      "FasPersonRunning",
+      "FasLaptopCode",
       "RiBodyScanFill",
-      "RiHealthBookFill",
-      "LiDumbbell",
-      "RiBody-scan-fill",
-      "RiHealth-book-line"
+      "RiHealthBookFill"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -22,5 +22,9 @@
     }
   },
   "Physical Health": "RiHealthBookFill",
-  "Physical Health/Stretching moves.md": "RiBodyScanFill"
+  "Physical Health/Stretching moves.md": "RiBodyScanFill",
+  "Physical Health/Exercise Log": "LiDumbbell",
+  "Work": "FasLaptopCode",
+  "Work/Sprint 04-10-2023 - 04-30-2023": "FasPersonRunning",
+  "Work/Sprint 04-10-2023 - 04-30-2023/Stories": "RiGitRepositoryLine"
 }
