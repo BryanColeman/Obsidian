@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/Sprint 04-10-2023 - 04-30-2023/Stories/Sps approval email bugs.md",
-                "mode": "source",
+                "file": "Possible Frogs.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/Sprint 04-10-2023 - 04-30-2023/Stories/Sps approval email bugs.md",
+                "file": "Possible Frogs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/Sprint 04-10-2023 - 04-30-2023/Stories/Sps approval email bugs.md",
+                "file": "Possible Frogs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/Sprint 04-10-2023 - 04-30-2023/Stories/Sps approval email bugs.md"
+                "file": "Possible Frogs.md"
               }
             }
           }
@@ -154,8 +154,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,8 +168,8 @@
   },
   "active": "476c5cfabaf519f4",
   "lastOpenFiles": [
-    "Possible Frogs.md",
     "Work/Sprint 04-10-2023 - 04-30-2023/Stories/Sps approval email bugs.md",
+    "Possible Frogs.md",
     "Possible Frogs",
     "Physical Health/Exercise Log/2023/April/04-24-2023, Monday.md",
     "Work/Sprint 04-10-2023 - 04-30-2023/Stories",
