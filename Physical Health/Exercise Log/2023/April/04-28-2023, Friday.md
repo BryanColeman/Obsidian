@@ -1,0 +1,43 @@
+**Warm-up  
+• 300 m [Row](https://www.youtube.com/watch?v=1ZgTTDL1gNk)
+
+_2 rounds:  
+• 30 sec [Standing Toe Touch Hold](https://www.youtube.com/watch?v=Xvr5N_Xf6QM)  
+• 30 sec [Plank Hold](http://www.womenshealthmag.com/files/images/bootcamp-plank.jpg)  
+• 30 sec [Pigeon Pose](https://www.youtube.com/watch?v=jQMsyrLowFw) Right  
+• 30 sec Pigeon Pose Left  
+• 30 sec [Straddle Stretch](https://www.youtube.com/watch?v=iVuuUsadc6A)  
+• 30 sec [Butterfly Stretch](https://www.youtube.com/watch?v=OrxjCE_tJ3k)
+
+_2 rounds:_  
+• 10 [PVC Good Mornings](https://www.youtube.com/watch?v=ooVgggClhtM)  
+• 10 [PVC Overhead Squats](https://www.youtube.com/watch?v=mrLUG_UyvV0)
+
+**Conditioning (part 1)  
+2 rounds for time:_  
+• 25 [Dumbbell Power Cleans](https://www.youtube.com/watch?v=viWI2rEt-HU) 35#  
+• 25 [Box Jump Overs](https://www.youtube.com/watch?v=BETEq-ZhQnM) 24”
+
+_Goal: 8 min._
+
+**_Rest 5 min between workouts._**
+
+**Conditioning (part 2)  
+**_21-15-9 reps for time:_  
+• [Thrusters](https://www.youtube.com/watch?v=88jwDZtP35c) 65#  
+• [Burpee Pull-ups](https://www.youtube.com/watch?v=jVzrLDIRqnE)
+
+_Goal: 9 min._
+
+**Core  
+**_4 rounds:_  
+• 30 sec [Weighted Supine GHD Hold](https://www.youtube.com/watch?v=37FZLMjnyYc) 15#  
+• 10 [GHD Sit-ups](https://www.youtube.com/watch?v=1pbZ8mX2D1U)
+
+**Cool-down**_3 rounds:_  
+• 30 sec [Pec Stretch w/ Band](https://www.youtube.com/watch?v=DhjH7brjzwY) Right  
+• 30 sec Pec Stretch w/ Band Left  
+• 30 sec [Downward Facing Dog](https://www.youtube.com/watch?v=ZVtwWOpN170)  
+• 30 sec [Upward Facing Dog](https://www.youtube.com/watch?v=canHY0a02lw)  
+• 30 sec [Lying Glutes Stretch](https://www.youtube.com/watch?v=YBV6d5TluFA) Right  
+• 30 sec Lying Glutes Stretch Left
