@@ -20,6 +20,24 @@
             }
           }
         ]
+      },
+      {
+        "id": "f472aa0bb0194ac9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "30a7f3af722cfe0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SPS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -77,7 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 437.5
+    "width": 252.5
   },
   "right": {
     "id": "5b682cf4169076f3",

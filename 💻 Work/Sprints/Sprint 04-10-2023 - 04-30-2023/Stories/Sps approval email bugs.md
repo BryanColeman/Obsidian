@@ -9,8 +9,5 @@
 	- Added a helper class for getting an emails contact info at the bottom. Giving less and less info until it's blank if needed. _this is based on the data we have at the time of the user_
 - Updated the Email constructor that takes a list of email to addresses. This will now remove empty, null or duplicate emails which was cause problems.
 
-#### Publishing [[SPS]]:
-- 
-
 #### Reference:
 [#145213](https://civicplus.tpondemand.com/RestUI/Board.aspx#page=board/4700871645113644934&appConfig=eyJhY2lkIjoiRDVFRTNFODg3NkIzNTM2MzVEQkU0RkVGRDg4Q0FCQUEifQ==&boardPopup=userstory/145213/silent)
