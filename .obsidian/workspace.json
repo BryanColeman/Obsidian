@@ -4,35 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2390be219a391ba8",
+        "id": "5174d7d931f9bdaa",
         "type": "tabs",
         "children": [
           {
-            "id": "1ab533482dbb3e5f",
+            "id": "7bcb1b0311b6f586",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "💻 Work/Sprints/Sprint 04-10-2023 - 04-30-2023/Stories/Sps approval email bugs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "f472aa0bb0194ac9",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "30a7f3af722cfe0f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SPS.md",
-                "mode": "source",
+                "file": "💻 Work/Stories/Refine UI for CivicGov & NEXT Search Link Integration.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -111,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "💻 Work/Sprints/Sprint 04-10-2023 - 04-30-2023/Stories/Sps approval email bugs.md",
+                "file": "💻 Work/Stories/Refine UI for CivicGov & NEXT Search Link Integration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "💻 Work/Sprints/Sprint 04-10-2023 - 04-30-2023/Stories/Sps approval email bugs.md",
+                "file": "💻 Work/Stories/Refine UI for CivicGov & NEXT Search Link Integration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "💻 Work/Sprints/Sprint 04-10-2023 - 04-30-2023/Stories/Sps approval email bugs.md"
+                "file": "💻 Work/Stories/Refine UI for CivicGov & NEXT Search Link Integration.md"
               }
             }
           }
@@ -164,10 +146,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "1ab533482dbb3e5f",
+  "active": "7bcb1b0311b6f586",
   "lastOpenFiles": [
+    "💻 Work/Stories/Sps approval email bugs.md",
+    "💻 Work/Stories/Refine UI for CivicGov & NEXT Search Link Integration.md",
     "SPS.md",
-    "💻 Work/Sprints/Sprint 04-10-2023 - 04-30-2023/Stories/Sps approval email bugs.md",
     "a",
     "AA",
     "Untitled/Untitled",
@@ -176,7 +159,7 @@
     "💻 Work/Sprints",
     "Possible Frogs",
     "💪 Physical Health/Exercise Log/2023/April/04-24-2023, Monday.md",
-    "💻 Work/Sprints/Sprint 04-10-2023 - 04-30-2023/Stories",
+    "💻 Work/Stories",
     "💪 Physical Health/Exercise Log/2023/April/04-25-2023, Tuesday.md",
     "💪 Physical Health/🧘‍♂️ Stretching moves.md",
     "💻 Work/Sprints/Sprint 04-10-2023 - 04-30-2023",
@@ -201,7 +184,6 @@
     "Dogs.md",
     "2023-02-03.md",
     "2023-02-01.md",
-    "Brighton.md",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
