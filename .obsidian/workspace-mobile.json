@@ -11,12 +11,8 @@
             "id": "19aaef2255c077eb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Possible Frogs.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Possible Frogs.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Possible Frogs.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -121,9 +115,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Possible Frogs.md"
-          }
+          "state": {}
         }
       }
     ],
@@ -139,8 +131,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8d2e9ec7882993f2",
+  "active": "19aaef2255c077eb",
   "lastOpenFiles": [
+    "Possible Frogs.md",
+    "💻 Work/Sprint 04-10-2023 - 04-30-2023/Stories/Sps approval email bugs.md",
+    "💪 Physical Health/🧘‍♂️ Stretching moves.md",
+    "💪 Physical Health/Exercise Log/2023/April/04-29-2023, Saturday.md",
+    "💪 Physical Health/Exercise Log/2023/April/04-28-2023, Friday.md",
+    "💪 Physical Health/Exercise Log/2023/April/04-26-2023, Wednesday.md",
+    "💪 Physical Health/Exercise Log/2023/April/04-25-2023, Tuesday.md",
+    "💪 Physical Health/Exercise Log/2023/April/04-24-2023, Monday.md",
+    "🐸 Possible Frogs.md",
+    "/💻 Work/Sprint 04-10-2023 - 04-30-2023/Stories/Sps approval email bugs.md",
+    "/💪 Physical Health/🧘‍♂️ Stretching moves.md",
+    "/💪 Physical Health/Exercise Log/2023/April/04-29-2023, Saturday.md",
+    "/💪 Physical Health/Exercise Log/2023/April/04-28-2023, Friday.md",
+    "/💪 Physical Health/Exercise Log/2023/April/04-26-2023, Wednesday.md",
+    "/💪 Physical Health/Exercise Log/2023/April/04-25-2023, Tuesday.md",
+    "/💪 Physical Health/Exercise Log/2023/April/04-24-2023, Monday.md",
+    "/🐸 Possible Frogs.md",
+    "💻 Work/Sprint 04-10-2023 - 04-30-2023/Stories",
+    "💻 Work/Sprint 04-10-2023 - 04-30-2023",
+    "💻 Work",
+    "💪 Physical Health/Exercise Log/2023/April",
+    "💪 Physical Health/Exercise Log/2023",
+    "💪 Physical Health/Exercise Log",
+    "💪 Physical Health",
+    "/💻 Work/Sprint 04-10-2023 - 04-30-2023/Stories",
+    "/💻 Work/Sprint 04-10-2023 - 04-30-2023",
+    "/💻 Work",
     "Physical Health/Exercise Log/2023/April/04-24-2023, Monday.md",
     "Physical Health/Exercise Log/2023/April/04-29-2023, Saturday.md",
     "Physical Health/Exercise Log/2023/April/04-28-2023, Friday.md",
@@ -148,7 +167,6 @@
     "Physical Health/Exercise Log/2023/April/04-25-2023, Tuesday.md",
     "Test sync.md",
     "Dogs.md",
-    "Dogs",
     "/Test sync.md",
     "Stretching moves.md"
   ]
