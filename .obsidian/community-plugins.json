@@ -2,5 +2,7 @@
   "obsidian-git",
   "obsidian-emoji-toolbar",
   "periodic-notes",
-  "recent-files-obsidian"
+  "recent-files-obsidian",
+  "obsidian-dynamic-toc",
+  "obsidian-plugin-toc"
 ]

@@ -38,7 +38,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTimeReverse"
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -148,7 +148,7 @@
   },
   "active": "adef80c8f641c043",
   "lastOpenFiles": [
-    "Untitled",
+    "a",
     "AA",
     "Untitled/Untitled",
     "Periodic",
