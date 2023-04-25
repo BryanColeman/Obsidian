@@ -11,8 +11,12 @@
             "id": "19aaef2255c077eb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "💪 Physical Health/Exercise Log/2023/April/04-25-2023, Tuesday.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "💪 Physical Health/Exercise Log/2023/April/04-25-2023, Tuesday.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "💪 Physical Health/Exercise Log/2023/April/04-25-2023, Tuesday.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +121,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "💪 Physical Health/Exercise Log/2023/April/04-25-2023, Tuesday.md"
+          }
         }
       }
     ],
