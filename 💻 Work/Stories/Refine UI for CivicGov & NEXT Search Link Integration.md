@@ -13,6 +13,12 @@ I will know that this is complete when:
         -   Header name: "CivicGov"
         -   Button text: "View" (aria text = View code enforcement, permitting, and licensing for (client name).
 
-##### LINKS:
+##### Implementation:
+- Cards should be reactive to the width of the device
+	- Mobile should be stacked
+	- Maybe 2-3 as the max width
+
+
+##### Links:
 [Example (Prod change to dev)](https://library.municode.com/fl/madeira_beach/codes/code_of_ordinances)
 [Change Integrations (Prod change to dev)](https://admin.municode.com/clientintegrations)
