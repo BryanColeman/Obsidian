@@ -1,4 +1,4 @@
-**Warm-up  
+Warm-up  
 _3 rounds:_  
 • 10 [Walking Lunges](https://www.youtube.com/watch?v=DlhojghkaQ0)  
 • 10 [Arm Circles CW](https://www.youtube.com/watch?v=rZENbpK2_M8)  
@@ -12,7 +12,7 @@ _3 rounds:_
 • 30 sec [Pike Stretch](https://www.youtube.com/watch?v=cjIznknOzU0)  
 • 30 sec [Straddle Stretch](https://www.youtube.com/watch?v=gZHbm4LynYQ)
 
-**Weightlifting  
+Weightlifting  
 [Snatch](https://www.youtube.com/watch?v=9xQp2sldyts)  80 lbs
 • 4 sets of 2 reps at 75% of 1RM 60 lbs
 • 4 sets of 2 reps at 85% of 1RM 65 lbs
@@ -44,8 +44,8 @@ _Recommended weight: 80-85-90% of 1RM shoulder press_
 
 70 / 75 / 80 lbs
 
-**Cool-down  
-_3 rounds:  
+Cool-down  
+3 rounds:  
 • 30 sec [Foam Roll Lower Back](https://www.youtube.com/watch?v=XxA2QQBgJ0U)  
 • 30 sec [Foam Roll Glutes](https://www.youtube.com/watch?v=XRY38hLNrb4)  
 • 30 sec [Foam Roll Hamstrings](https://www.youtube.com/watch?v=MGd1riGV_Nc)  
