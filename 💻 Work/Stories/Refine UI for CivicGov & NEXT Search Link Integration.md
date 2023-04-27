@@ -20,8 +20,6 @@ I will know that this is complete when:
 
 ##### Notes:
 - I might want the button on the bottom of the text in the cards
-- 
-
 
 ##### Links:
 [Example (Prod change to dev)](https://library.municode.com/fl/madeira_beach/codes/code_of_ordinances)
