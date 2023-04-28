@@ -36,10 +36,19 @@
 - Can all the commands we need be ran with linux
 	- I think for SPSv2 we might be in the clear with this - I'll just need to ad hoc check honestly.
 - What projects will need to be published?
-	- 
+	- Municode.Library.AzureFunctions
+	- Municode.Library.Api
+	- Municode.Library.SPA
+-  What about the document processor?
+	- Municode.DocumentProcessor.API
+	- AccessibilizeWorker
+	- Municode.DocumentProcessor.OcrWorker
+	- Municode.DocumentProcessor.BackgroundFunctions
 - Which environments should be created for the pipelines?
-- What about the document processor?
+	- Development - It's okay to have the dev sites share an azure environment
+	- Quality Assurance
+	- Staging
+	- Production
 
 ## Notes:
 - Focus on speed
-
