@@ -21,11 +21,23 @@
 - What are the branch policies we need?
 	- "Build validation" branch policies
 	- We will only need one required and that is to build, which will be the smaller portion of whatever main.yaml is. This will build, run tests, migrations, etc.
-	- 
+	- We will then have 4 optional pipelines for releasing to one of the dev sites.
+	- __*Pipelines need to be made first*__
 - How many pipelines will we need? Look into meetings for this?
+	- Main - this is everything except swapping staging and prod. _nuget restore to publishing to staging_
+	- Release Dev1-4 - Four different pipelines that can use a base yaml file _meetings does that_
+	- Release Production - This will just swap staging and prod
 - Which stages will be needed?
+	- Main
+		- Build - build, run tests, migrations, publish, etc.
+		- DeployQA - This will be done on the condition that the PR is completed.
+		- DeployStaging - This will be done on the condition that this stage is approved. _The approvals are setup through the pipeline environments_
+	- Release Dev1-4 - Single stage
+	- Release Production - Single stage
 - Can all the commands we need be ran with linux
+	- 
 - What projects will need to be published?
+- Which environments should be created for the pipelines?
 
 ### Notes:
 - Focus on speed
