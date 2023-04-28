@@ -1,5 +1,4 @@
-### [Story:](https://civicplus.tpondemand.com/RestUI/Board.aspx#page=board/4700871645113644934&appConfig=eyJhY2lkIjoiRDVFRTNFODg3NkIzNTM2MzVEQkU0RkVGRDg4Q0FCQUEifQ==&boardPopup=userstory/139923/silent)
-
+## [Story:](https://civicplus.tpondemand.com/RestUI/Board.aspx#page=board/4700871645113644934&appConfig=eyJhY2lkIjoiRDVFRTNFODg3NkIzNTM2MzVEQkU0RkVGRDg4Q0FCQUEifQ==&boardPopup=userstory/139923/silent)
 #### AC:
 - all current environments will be setup as stages in our pipeline process
 - we can deploy code using the new pipeline processes in DevOps
@@ -9,15 +8,15 @@
 
 *build pipeline is required and dev/deploy pipelines are optional in PR
 
-### To do:
+## To do:
 - Ask for permissions to change the main branch policy.
 	- Remove check for linked work items
 	- 
 
-### Implementation:
+## Implementation:
 - Use linux agents _this will help with speed_
 
-### Questions (5 max unanswered):
+## Questions (5 max unanswered):
 - What are the branch policies we need?
 	- "Build validation" branch policies
 	- We will only need one required and that is to build, which will be the smaller portion of whatever main.yaml is. This will build, run tests, migrations, etc.
@@ -35,10 +34,12 @@
 	- Release Dev1-4 - Single stage
 	- Release Production - Single stage
 - Can all the commands we need be ran with linux
-	- 
+	- I think for SPSv2 we might be in the clear with this - I'll just need to ad hoc check honestly.
 - What projects will need to be published?
+	- 
 - Which environments should be created for the pipelines?
+- What about the document processor?
 
-### Notes:
+## Notes:
 - Focus on speed
 
