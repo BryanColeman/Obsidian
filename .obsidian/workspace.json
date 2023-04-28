@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7bcb1b0311b6f586",
+            "id": "f8ace8507a0b51b5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "💻 Work/Stories/Refine UI for CivicGov & NEXT Search Link Integration.md",
+                "file": "💻 Work/Stories/139923 - SpsV2 -  Pipeline setup.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252.5
+    "width": 384.5
   },
   "right": {
     "id": "5b682cf4169076f3",
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "💻 Work/Stories/Refine UI for CivicGov & NEXT Search Link Integration.md",
+                "file": "💻 Work/Stories/139923 - SpsV2 -  Pipeline setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "💻 Work/Stories/Refine UI for CivicGov & NEXT Search Link Integration.md",
+                "file": "💻 Work/Stories/139923 - SpsV2 -  Pipeline setup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "💻 Work/Stories/Refine UI for CivicGov & NEXT Search Link Integration.md"
+                "file": "💻 Work/Stories/139923 - SpsV2 -  Pipeline setup.md"
               }
             }
           }
@@ -146,13 +146,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "7bcb1b0311b6f586",
+  "active": "f8ace8507a0b51b5",
   "lastOpenFiles": [
+    "💻 Work/Stories/147293 - Refine UI for CivicGov & NEXT Search Link Integration.md",
+    "💻 Work/Stories/145213 - Sps approval email bugs.md",
+    "💻 Work/Stories/139923 - SpsV2 -  Pipeline setup.md",
     "🐸 Possible Frogs.md",
-    "💻 Work/Stories/Refine UI for CivicGov & NEXT Search Link Integration.md",
     "2 ATEST",
     "ToC.md",
-    "💻 Work/Stories/Sps approval email bugs.md",
     "SPS.md",
     "a",
     "AA",
