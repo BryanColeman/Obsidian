@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5174d7d931f9bdaa",
+        "id": "ed2219638726d505",
         "type": "tabs",
         "children": [
           {
-            "id": "aaa0414adff5d891",
+            "id": "cb0f4b3142340e1e",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,8 +138,19 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "adef80c8f641c043",
+  "active": "cb0f4b3142340e1e",
   "lastOpenFiles": [
+    "🖋️ Periodic Notes/2023.md",
+    "🖋️ Periodic Notes/Quarterly/2023, 2nd quarter.md",
+    "🖋️ Periodic Notes/Monthly/2023, April.md",
+    "🖋️ Periodic Notes/Weekly/2023, 17th week.md",
+    "🖋️ Periodic Notes/Daily/2023-04-28, Friday.md",
+    "🖋️ Periodic Notes/Untitled 2/Untitled",
+    "🖋️ Periodic Notes/Quarterly",
+    "🖋️ Periodic Notes/Monthly",
+    "🖋️ Periodic Notes/Weekly",
+    "🖋️ Periodic Notes/Weekly",
+    "🖋️ Periodic Notes/Daily",
     "Periodic Notes/Untitled.md",
     "💻 Work/Stories/_139923 - SpsV2 -  Pipeline setup.md",
     "Untitled.canvas",
@@ -156,13 +167,7 @@
     "ToC.md",
     "SPS.md",
     "a",
-    "AA",
-    "Untitled/Untitled",
-    "Periodic",
-    "💻 Work/Sprints",
-    "Possible Frogs",
     "💪 Physical Health/Exercise Log/2023/April/04-24-2023, Monday.md",
-    "💻 Work/Stories",
     "💪 Physical Health/Exercise Log/2023/April/04-25-2023, Tuesday.md",
     "💪 Physical Health/🧘‍♂️ Stretching moves.md",
     "💪 Physical Health/Exercise Log/2023/April/04-29-2023, Saturday.md",
@@ -172,11 +177,6 @@
     "Physical Health/Exercise Log/2023/Q2/W17 April 24 - April 30/Monday.md",
     "Physical Health/Exercise Log/2023/Q2/W17 April 24 - April 30/Tuesday.md",
     "Physical Health/Exercise Log/2023/Q2/W17 April 24 - April 30/Friday.md",
-    "Physical Health/Exercise Log/2023/Q2/April/April.md",
-    "Physical Health/Exercise Log/2023/Q2/Q2.md",
-    "Physical Health/Exercise Log/2023/Q2/April/.md",
-    "Physical Health/Exercise Log/2023/Q2/April/Thursday, 2023-04-27.md",
-    "Physical Health/Exercise Log/Untitled.md",
     "Untitled 1.canvas"
   ]
 }
