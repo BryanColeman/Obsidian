@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "0a0b75f5e184d567",
+        "id": "970d4932e85f2d43",
         "type": "tabs",
         "children": [
           {
-            "id": "19aaef2255c077eb",
+            "id": "cc095821bc08db0c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🐸 Possible Frogs.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -60,14 +56,6 @@
           "type": "starred",
           "state": {}
         }
-      },
-      {
-        "id": "ae2b8b117c69abad",
-        "type": "leaf",
-        "state": {
-          "type": "recent-files",
-          "state": {}
-        }
       }
     ],
     "currentTab": 0
@@ -82,7 +70,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "🐸 Possible Frogs.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -99,7 +86,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "🐸 Possible Frogs.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -110,9 +96,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "🐸 Possible Frogs.md"
-          }
+          "state": {}
         }
       }
     ],
@@ -130,13 +114,22 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "19aaef2255c077eb",
+  "active": "8d2e9ec7882993f2",
   "lastOpenFiles": [
+    "🗒️ Periodic Notes/Quarterly",
+    "🗒️ Periodic Notes/Monthly",
+    "Untitled",
+    "🗒️ Periodic Notes/Monthly",
+    "🗒️ Periodic Notes/Weekly",
+    "🗒️ Periodic Notes/Daily",
+    "🗒️ Periodic Notes",
+    "2023.md",
+    "2023-04-28, Friday.md",
+    "🐸 Possible Frogs.md",
     "💪 Physical Health/Exercise Log/2023/April/04-28-2023, Friday.md",
     "🧠 Mental Health",
     "💪 Physical Health/Exercise Log/2023/April/04-26-2023, Wednesday.md",
     "💪 Physical Health/Exercise Log/2023/April/04-25-2023, Tuesday.md",
-    "🐸 Possible Frogs.md",
     "💻 Work/Stories/Sps approval email bugs.md",
     "/💻 Work/Stories/Sps approval email bugs.md",
     "SPS.md",
@@ -149,11 +142,6 @@
     "/💻 Work/Sprints/Sprint 04-10-2023 - 04-30-2023/Stories/Sps approval email bugs.md",
     "/🐸 Possible Frogs.md",
     "💻 Work/Sprints/Sprint 04-10-2023 - 04-30-2023/Stories",
-    "💻 Work/Sprints/Sprint 04-10-2023 - 04-30-2023",
-    "💻 Work/Sprints",
-    "/💻 Work/Sprints/Sprint 04-10-2023 - 04-30-2023/Stories",
-    "/💻 Work/Sprints/Sprint 04-10-2023 - 04-30-2023",
-    "/💻 Work/Sprints",
     "Possible Frogs.md",
     "💻 Work/Sprint 04-10-2023 - 04-30-2023/Stories/Sps approval email bugs.md",
     "💪 Physical Health/🧘‍♂️ Stretching moves.md",
@@ -163,9 +151,6 @@
     "/💪 Physical Health/🧘‍♂️ Stretching moves.md",
     "/💪 Physical Health/Exercise Log/2023/April/04-29-2023, Saturday.md",
     "/💪 Physical Health/Exercise Log/2023/April/04-28-2023, Friday.md",
-    "/💪 Physical Health/Exercise Log/2023/April/04-26-2023, Wednesday.md",
-    "/💪 Physical Health/Exercise Log/2023/April/04-25-2023, Tuesday.md",
-    "/💪 Physical Health/Exercise Log/2023/April/04-24-2023, Monday.md",
-    "💻 Work/Sprint 04-10-2023 - 04-30-2023/Stories"
+    "/💪 Physical Health/Exercise Log/2023/April/04-26-2023, Wednesday.md"
   ]
 }
