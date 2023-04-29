@@ -54,17 +54,6 @@
         }
       },
       {
-        "id": "e2eb9051eca004b0",
-        "type": "leaf",
-        "state": {
-          "type": "tag",
-          "state": {
-            "sortOrder": "frequency",
-            "useHierarchy": true
-          }
-        }
-      },
-      {
         "id": "637233b7b98b2249",
         "type": "leaf",
         "state": {
@@ -141,7 +130,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "19aaef2255c077eb",
+  "active": "8d2e9ec7882993f2",
   "lastOpenFiles": [
     "🧠 Mental Health",
     "💪 Physical Health/Exercise Log/2023/April/04-26-2023, Wednesday.md",

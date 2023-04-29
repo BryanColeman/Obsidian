@@ -13,13 +13,47 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "💻 Work/Stories/__139923 - SpsV2 -  Pipeline setup.md",
+=======
+                "file": "🌞 Morning Routine.md",
+>>>>>>> 516cc7fc0b4b73b907c9453439973a13cc2b714e
                 "mode": "source",
                 "source": false
               }
             }
+<<<<<<< HEAD
           }
         ]
+=======
+          },
+          {
+            "id": "ea0ad95a9a89810f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "💪 Physical Health/Exercise Log/2023/April/04-28-2023, Friday.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f77e7c27c8063276",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "💻 Work/Stories/__139923 - SpsV2 -  Pipeline setup.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+>>>>>>> 516cc7fc0b4b73b907c9453439973a13cc2b714e
       }
     ],
     "direction": "vertical"
@@ -93,6 +127,10 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
+=======
+                "file": "💻 Work/Stories/__139923 - SpsV2 -  Pipeline setup.md",
+>>>>>>> 516cc7fc0b4b73b907c9453439973a13cc2b714e
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +147,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
+=======
+                "file": "💻 Work/Stories/__139923 - SpsV2 -  Pipeline setup.md",
+>>>>>>> 516cc7fc0b4b73b907c9453439973a13cc2b714e
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +161,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+<<<<<<< HEAD
               "state": {}
+=======
+              "state": {
+                "file": "💻 Work/Stories/__139923 - SpsV2 -  Pipeline setup.md"
+              }
+>>>>>>> 516cc7fc0b4b73b907c9453439973a13cc2b714e
             }
           }
         ],
@@ -142,16 +190,24 @@
       "dbfolder:Create a new database table": false
     }
   },
+<<<<<<< HEAD
   "active": "adef80c8f641c043",
   "lastOpenFiles": [
     "Periodic Notes",
     "🖋️ Daily/2023-04-28, Friday.md",
     "Untitled.canvas",
+=======
+  "active": "f77e7c27c8063276",
+  "lastOpenFiles": [
+>>>>>>> 516cc7fc0b4b73b907c9453439973a13cc2b714e
     "🌞 Morning Routine.md",
     "💻 Work/Stories/__139923 - SpsV2 -  Pipeline setup.md",
     "💪 Physical Health/Exercise Log/2023/April/04-28-2023, Friday.md",
     "2023-04-28.md",
+<<<<<<< HEAD
     "🖋️ Daily",
+=======
+>>>>>>> 516cc7fc0b4b73b907c9453439973a13cc2b714e
     "💻 Work/Stories/147293 - Refine UI for CivicGov & NEXT Search Link Integration.md",
     "💻 Work/Stories/145213 - Sps approval email bugs.md",
     "🐸 Possible Frogs.md",
@@ -169,6 +225,7 @@
     "💪 Physical Health/Exercise Log/2023/April/04-25-2023, Tuesday.md",
     "💪 Physical Health/🧘‍♂️ Stretching moves.md",
     "💻 Work/Sprints/Sprint 04-10-2023 - 04-30-2023",
+    "💻 Work",
     "💪 Physical Health/Exercise Log/2023/April/04-29-2023, Saturday.md",
     "💪 Physical Health/Exercise Log/2023/April/04-26-2023, Wednesday.md",
     "Physical Health/Exercise Log/2023/Q2/W17 April 24 - April 30/Wednesday.md",
@@ -181,6 +238,12 @@
     "Physical Health/Exercise Log/2023/Q2/April/.md",
     "Physical Health/Exercise Log/2023/Q2/April/Thursday, 2023-04-27.md",
     "Physical Health/Exercise Log/Untitled.md",
+<<<<<<< HEAD
+=======
+    "2023-04-23.md",
+    "Test sync.md",
+    "Untitled.canvas",
+>>>>>>> 516cc7fc0b4b73b907c9453439973a13cc2b714e
     "Untitled 1.canvas"
   ]
 }

@@ -1,6 +1,10 @@
 [
   "obsidian-git",
   "obsidian-emoji-toolbar",
+<<<<<<< HEAD
   "periodic-notes",
   "dbfolder"
+=======
+  "periodic-notes"
+>>>>>>> 516cc7fc0b4b73b907c9453439973a13cc2b714e
 ]
