@@ -3,25 +3,25 @@
   "hasMigratedDailyNoteSettings": false,
   "hasMigratedWeeklyNoteSettings": false,
   "daily": {
-    "format": "",
+    "format": "YYYY-MM-DD, dddd",
     "template": "",
     "folder": "",
     "enabled": true
   },
   "weekly": {
-    "format": "",
+    "format": "gggg, wo [week]",
     "template": "",
     "folder": "",
     "enabled": true
   },
   "monthly": {
-    "format": "",
+    "format": "YYYY, MMMM",
     "template": "",
     "folder": "",
     "enabled": true
   },
   "quarterly": {
-    "format": "",
+    "format": "YYYY, Qo [quarter]",
     "template": "",
     "folder": "",
     "enabled": true
