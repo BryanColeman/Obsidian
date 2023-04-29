@@ -8,7 +8,7 @@
 
 *build pipeline is required and dev/deploy pipelines are optional in PR
 
-## To do:
+## To do
 - Ask for permissions to change the main branch policy.
 	- Remove check for linked work items
 	- 
