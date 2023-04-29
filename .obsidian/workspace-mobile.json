@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "970d4932e85f2d43",
+        "id": "cfc4b0344348dc99",
         "type": "tabs",
         "children": [
           {
-            "id": "cc095821bc08db0c",
+            "id": "bc2a785619cdafd7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "🖋️ Periodic Notes/Daily/2023-04-29, Saturday.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -70,6 +74,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "🖋️ Periodic Notes/Daily/2023-04-29, Saturday.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -86,6 +91,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "🖋️ Periodic Notes/Daily/2023-04-29, Saturday.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -96,7 +102,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "🖋️ Periodic Notes/Daily/2023-04-29, Saturday.md"
+          }
         }
       }
     ],
@@ -114,20 +122,33 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "8d2e9ec7882993f2",
+  "active": "bc2a785619cdafd7",
   "lastOpenFiles": [
-    "🗒️ Periodic Notes/Quarterly",
-    "🗒️ Periodic Notes/Monthly",
-    "Untitled",
-    "🗒️ Periodic Notes/Monthly",
-    "🗒️ Periodic Notes/Weekly",
-    "🗒️ Periodic Notes/Daily",
-    "🗒️ Periodic Notes",
+    "🖋️ Periodic Notes/Daily/2023-04-29, Saturday.md",
+    "🖋️ Periodic Notes/Daily/2023-04-28, Friday.md",
+    "🖋️ Periodic Notes/Weekly/2023, 17th week.md",
+    "🖋️ Periodic Notes/Quarterly/2023, 2nd quarter.md",
+    "🖋️ Periodic Notes/Monthly/2023, April.md",
+    "🖋️ Periodic Notes/2023.md",
+    "/🖋️ Periodic Notes/Weekly/2023, 17th week.md",
+    "/🖋️ Periodic Notes/Quarterly/2023, 2nd quarter.md",
+    "/🖋️ Periodic Notes/Monthly/2023, April.md",
+    "/🖋️ Periodic Notes/Daily/2023-04-28, Friday.md",
+    "/🖋️ Periodic Notes/2023.md",
+    "🖋️ Periodic Notes/Weekly",
+    "🖋️ Periodic Notes/Quarterly",
+    "🖋️ Periodic Notes/Monthly",
+    "🖋️ Periodic Notes/Daily",
+    "🖋️ Periodic Notes",
+    "/🖋️ Periodic Notes/Weekly",
+    "/🖋️ Periodic Notes/Quarterly",
+    "/🖋️ Periodic Notes/Monthly",
+    "/🖋️ Periodic Notes/Daily",
+    "/🖋️ Periodic Notes",
     "2023.md",
     "2023-04-28, Friday.md",
     "🐸 Possible Frogs.md",
     "💪 Physical Health/Exercise Log/2023/April/04-28-2023, Friday.md",
-    "🧠 Mental Health",
     "💪 Physical Health/Exercise Log/2023/April/04-26-2023, Wednesday.md",
     "💪 Physical Health/Exercise Log/2023/April/04-25-2023, Tuesday.md",
     "💻 Work/Stories/Sps approval email bugs.md",
@@ -136,21 +157,8 @@
     "💻 Work/Stories/Refine UI for CivicGov & NEXT Search Link Integration.md",
     "/SPS.md",
     "/💻 Work/Stories/Refine UI for CivicGov & NEXT Search Link Integration.md",
-    "💻 Work/Stories",
-    "/💻 Work/Stories",
     "💻 Work/Sprints/Sprint 04-10-2023 - 04-30-2023/Stories/Sps approval email bugs.md",
     "/💻 Work/Sprints/Sprint 04-10-2023 - 04-30-2023/Stories/Sps approval email bugs.md",
-    "/🐸 Possible Frogs.md",
-    "💻 Work/Sprints/Sprint 04-10-2023 - 04-30-2023/Stories",
-    "Possible Frogs.md",
-    "💻 Work/Sprint 04-10-2023 - 04-30-2023/Stories/Sps approval email bugs.md",
-    "💪 Physical Health/🧘‍♂️ Stretching moves.md",
-    "💪 Physical Health/Exercise Log/2023/April/04-29-2023, Saturday.md",
-    "💪 Physical Health/Exercise Log/2023/April/04-24-2023, Monday.md",
-    "/💻 Work/Sprint 04-10-2023 - 04-30-2023/Stories/Sps approval email bugs.md",
-    "/💪 Physical Health/🧘‍♂️ Stretching moves.md",
-    "/💪 Physical Health/Exercise Log/2023/April/04-29-2023, Saturday.md",
-    "/💪 Physical Health/Exercise Log/2023/April/04-28-2023, Friday.md",
-    "/💪 Physical Health/Exercise Log/2023/April/04-26-2023, Wednesday.md"
+    "/🐸 Possible Frogs.md"
   ]
 }
