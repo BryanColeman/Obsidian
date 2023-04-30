@@ -18,8 +18,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c130dfa0fce10e9d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -74,7 +83,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "🖋️ Periodic Notes/Daily/2023-04-30, Sunday.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -91,7 +99,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "🖋️ Periodic Notes/Daily/2023-04-30, Sunday.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -102,9 +109,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "🖋️ Periodic Notes/Daily/2023-04-30, Sunday.md"
-          }
+          "state": {}
         }
       }
     ],
@@ -122,11 +127,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "bc2a785619cdafd7",
+  "active": "c130dfa0fce10e9d",
   "lastOpenFiles": [
+    "🖋️ Periodic Notes/Daily/2023-04-30, Sunday.md",
+    "conflict-files-obsidian-git.md",
     "/🖋️ Periodic Notes/Daily/2023-04-30, Sunday.md",
     "🖋️ Periodic Notes/Daily/2023-04-29, Saturday.md",
-    "🖋️ Periodic Notes/Daily/2023-04-30, Sunday.md",
     "💪 Physical Health/Exercise Log/2023/April/04-29-2023, Saturday.md",
     "🖋️ Periodic Notes/Daily/2023-04-28, Friday.md",
     "🖋️ Periodic Notes/Weekly/2023, 17th week.md",
@@ -158,7 +164,6 @@
     "/💻 Work/Stories/Sps approval email bugs.md",
     "SPS.md",
     "💻 Work/Stories/Refine UI for CivicGov & NEXT Search Link Integration.md",
-    "/SPS.md",
-    "/💻 Work/Stories/Refine UI for CivicGov & NEXT Search Link Integration.md"
+    "/SPS.md"
   ]
 }
