@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "131c65efbf6635fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🖋️ Periodic Notes/Daily/2023-04-30, Sunday.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🖋️ Periodic Notes/Daily/2023-04-30, Sunday.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🖋️ Periodic Notes/Daily/2023-04-30, Sunday.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -146,10 +159,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "cb0f4b3142340e1e",
+  "active": "131c65efbf6635fe",
   "lastOpenFiles": [
-    "🖋️ Periodic Notes/Daily/2023-04-29, Saturday.md",
     "🖋️ Periodic Notes/Daily/2023-04-30, Sunday.md",
+    "conflict-files-obsidian-git.md",
+    "🖋️ Periodic Notes/Daily/2023-04-29, Saturday.md",
     "🖋️ Periodic Notes/2023.md",
     "🖋️ Periodic Notes/Quarterly/2023, 2nd quarter.md",
     "🖋️ Periodic Notes/Monthly/2023, April.md",
@@ -184,7 +198,6 @@
     "💪 Physical Health/Exercise Log/2023/April/04-26-2023, Wednesday.md",
     "Physical Health/Exercise Log/2023/Q2/W17 April 24 - April 30/Wednesday.md",
     "Physical Health/Exercise Log/2023/Q2/W17 April 24 - April 30/Saturday.md",
-    "Physical Health/Exercise Log/2023/Q2/W17 April 24 - April 30/Monday.md",
     "Untitled 1.canvas"
   ]
 }
