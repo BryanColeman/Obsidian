@@ -24,5 +24,14 @@
       ],
       "key": "E"
     }
+  ],
+  "obsidian-git:commit": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "0"
+    }
   ]
 }
