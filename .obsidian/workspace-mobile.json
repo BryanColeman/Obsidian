@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🖋️ Periodic Notes/Daily/2023-04-29, Saturday.md",
-                "mode": "preview",
+                "file": "🖋️ Periodic Notes/Daily/2023-04-30, Sunday.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -74,7 +74,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "🖋️ Periodic Notes/Daily/2023-04-29, Saturday.md",
+            "file": "🖋️ Periodic Notes/Daily/2023-04-30, Sunday.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -91,7 +91,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "🖋️ Periodic Notes/Daily/2023-04-29, Saturday.md",
+            "file": "🖋️ Periodic Notes/Daily/2023-04-30, Sunday.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -103,7 +103,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "🖋️ Periodic Notes/Daily/2023-04-29, Saturday.md"
+            "file": "🖋️ Periodic Notes/Daily/2023-04-30, Sunday.md"
           }
         }
       }
@@ -124,8 +124,9 @@
   },
   "active": "bc2a785619cdafd7",
   "lastOpenFiles": [
-    "💪 Physical Health/Exercise Log/2023/April/04-29-2023, Saturday.md",
     "🖋️ Periodic Notes/Daily/2023-04-29, Saturday.md",
+    "🖋️ Periodic Notes/Daily/2023-04-30, Sunday.md",
+    "💪 Physical Health/Exercise Log/2023/April/04-29-2023, Saturday.md",
     "🖋️ Periodic Notes/Daily/2023-04-28, Friday.md",
     "🖋️ Periodic Notes/Weekly/2023, 17th week.md",
     "🖋️ Periodic Notes/Quarterly/2023, 2nd quarter.md",
@@ -158,7 +159,6 @@
     "💻 Work/Stories/Refine UI for CivicGov & NEXT Search Link Integration.md",
     "/SPS.md",
     "/💻 Work/Stories/Refine UI for CivicGov & NEXT Search Link Integration.md",
-    "💻 Work/Sprints/Sprint 04-10-2023 - 04-30-2023/Stories/Sps approval email bugs.md",
-    "/💻 Work/Sprints/Sprint 04-10-2023 - 04-30-2023/Stories/Sps approval email bugs.md"
+    "💻 Work/Sprints/Sprint 04-10-2023 - 04-30-2023/Stories/Sps approval email bugs.md"
   ]
 }
