@@ -23,8 +23,12 @@
             "id": "c130dfa0fce10e9d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "🖋️ Periodic Notes/Daily/2023-04-30, Sunday.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -83,6 +87,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "🖋️ Periodic Notes/Daily/2023-04-30, Sunday.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -99,6 +104,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "🖋️ Periodic Notes/Daily/2023-04-30, Sunday.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -109,7 +115,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "🖋️ Periodic Notes/Daily/2023-04-30, Sunday.md"
+          }
         }
       }
     ],
