@@ -11,8 +11,12 @@
             "id": "cb0f4b3142340e1e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "🖋️ Periodic Notes/Daily/2023-04-30, Sunday.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "🖋️ Periodic Notes/Daily/2023-04-30, Sunday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "🖋️ Periodic Notes/Daily/2023-04-30, Sunday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +121,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "🖋️ Periodic Notes/Daily/2023-04-30, Sunday.md"
+              }
             }
           }
         ],
@@ -140,6 +148,8 @@
   },
   "active": "cb0f4b3142340e1e",
   "lastOpenFiles": [
+    "🖋️ Periodic Notes/Daily/2023-04-29, Saturday.md",
+    "🖋️ Periodic Notes/Daily/2023-04-30, Sunday.md",
     "🖋️ Periodic Notes/2023.md",
     "🖋️ Periodic Notes/Quarterly/2023, 2nd quarter.md",
     "🖋️ Periodic Notes/Monthly/2023, April.md",
@@ -175,8 +185,6 @@
     "Physical Health/Exercise Log/2023/Q2/W17 April 24 - April 30/Wednesday.md",
     "Physical Health/Exercise Log/2023/Q2/W17 April 24 - April 30/Saturday.md",
     "Physical Health/Exercise Log/2023/Q2/W17 April 24 - April 30/Monday.md",
-    "Physical Health/Exercise Log/2023/Q2/W17 April 24 - April 30/Tuesday.md",
-    "Physical Health/Exercise Log/2023/Q2/W17 April 24 - April 30/Friday.md",
     "Untitled 1.canvas"
   ]
 }
