@@ -13,10 +13,15 @@
 - [ ] Lotion
 - [ ] Deo
 - [ ] Brush teeth
+- [ ] Tell Holly you won't drink today
 - [ ] Plan day
+
+## Afternoon 
+- [ ] Tell Holly you are still not drinking today
 
 ## Evening
 - [ ] CanPay spin
+- [ ] Tell Holly you didn't drink today
 - [ ] Plan tomorrow 
 - [ ] Shower 
 - [ ] Lotion 

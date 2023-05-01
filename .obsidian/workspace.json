@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🖋️ Periodic Notes/Daily/2023-05-01, Monday.md",
+                "file": "🖋️ Periodic Notes/Templates/Daily.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🖋️ Periodic Notes/Daily/2023-05-01, Monday.md",
+                "file": "🖋️ Periodic Notes/Templates/Daily.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🖋️ Periodic Notes/Daily/2023-05-01, Monday.md",
+                "file": "🖋️ Periodic Notes/Templates/Daily.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🖋️ Periodic Notes/Daily/2023-05-01, Monday.md"
+                "file": "🖋️ Periodic Notes/Templates/Daily.md"
               }
             }
           }
@@ -148,8 +148,11 @@
   },
   "active": "71c603b7b8c477d0",
   "lastOpenFiles": [
-    "🖋️ Periodic Notes/Weekly/2023-W18.md",
+    "💻 Work/Stories/_139923 - SpsV2 -  Pipeline setup.md",
+    "💻 Work/Stories/145213 - Sps approval email bugs.md",
+    "💻 Work/Stories/147293 - Refine UI for CivicGov & NEXT Search Link Integration.md",
     "🖋️ Periodic Notes/Daily/2023-05-01, Monday.md",
+    "🖋️ Periodic Notes/Weekly/2023-W18.md",
     "💪 Physical Health/Exercise Log/2023/W18/05-01-2023, Monday.md",
     "🖋️ Periodic Notes/Templates/Weekly.md",
     "💪 Physical Health/Exercise Log/2023/W18/05-06-2023, Saturday.md",
@@ -173,10 +176,7 @@
     "🖋️ Periodic Notes/Daily/2023-04-29, Saturday.md",
     "🖋️ Periodic Notes/Quarterly/2023, 2nd quarter.md",
     "🖋️ Periodic Notes/Templates/Quarterly.md",
-    "🖋️ Periodic Notes/Templates/Monthly.md",
     "🖋️ Periodic Notes/Templates",
-    "conflict-files-obsidian-git.md",
-    "🖋️ Periodic Notes/Daily/2023-04-28, Friday.md",
     "🖋️ Periodic Notes/Untitled 2/Untitled",
     "🖋️ Periodic Notes/Quarterly",
     "🖋️ Periodic Notes/Monthly",
