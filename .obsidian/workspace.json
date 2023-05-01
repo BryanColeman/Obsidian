@@ -8,79 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "248e05d0afebb252",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "💪 Physical Health/🧘‍♂️ Stretching moves.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7c21408b162f71dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "💪 Physical Health/Exercise Log/2023/W18/05-01-2023, Monday.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fe0dde258a454c96",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "💪 Physical Health/Exercise Log/2023/W18/05-02-2023, Tuesday.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f019a22d2c3e9b86",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "💪 Physical Health/Exercise Log/2023/W18/05-03-2023, Wednesday.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ec7c1def5dd7ae11",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "💪 Physical Health/Exercise Log/2023/W18/05-05-2023, Friday.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "71c603b7b8c477d0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🖋️ Periodic Notes/Weekly/2023-W18.md",
+                "file": "🖋️ Periodic Notes/Daily/2023-05-01, Monday.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -154,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🖋️ Periodic Notes/Weekly/2023-W18.md",
+                "file": "🖋️ Periodic Notes/Daily/2023-05-01, Monday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🖋️ Periodic Notes/Weekly/2023-W18.md",
+                "file": "🖋️ Periodic Notes/Daily/2023-05-01, Monday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🖋️ Periodic Notes/Weekly/2023-W18.md"
+                "file": "🖋️ Periodic Notes/Daily/2023-05-01, Monday.md"
               }
             }
           }
@@ -209,8 +148,9 @@
   },
   "active": "71c603b7b8c477d0",
   "lastOpenFiles": [
-    "💪 Physical Health/Exercise Log/2023/W18/05-01-2023, Monday.md",
     "🖋️ Periodic Notes/Weekly/2023-W18.md",
+    "🖋️ Periodic Notes/Daily/2023-05-01, Monday.md",
+    "💪 Physical Health/Exercise Log/2023/W18/05-01-2023, Monday.md",
     "🖋️ Periodic Notes/Templates/Weekly.md",
     "💪 Physical Health/Exercise Log/2023/W18/05-06-2023, Saturday.md",
     "💪 Physical Health/Exercise Log/2023/W18/05-05-2023, Friday.md",
@@ -243,7 +183,6 @@
     "🖋️ Periodic Notes/Weekly",
     "🖋️ Periodic Notes/Weekly",
     "🖋️ Periodic Notes/Daily",
-    "Periodic Notes/Untitled.md",
     "Untitled.canvas",
     "🖋️ Periodic Notes",
     "Untitled 1.canvas"
