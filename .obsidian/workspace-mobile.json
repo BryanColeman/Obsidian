@@ -11,8 +11,12 @@
             "id": "bc2a785619cdafd7",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "🖋️ Periodic Notes/Daily/2023-04-30, Sunday.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -82,6 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "🖋️ Periodic Notes/Daily/2023-04-30, Sunday.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "🖋️ Periodic Notes/Daily/2023-04-30, Sunday.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -108,7 +114,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "🖋️ Periodic Notes/Daily/2023-04-30, Sunday.md"
+          }
         }
       }
     ],
@@ -128,6 +136,8 @@
   },
   "active": "bc2a785619cdafd7",
   "lastOpenFiles": [
+    "🖋️ Periodic Notes/Templates",
+    "🌞 Morning Routine.md",
     "🖋️ Periodic Notes/Daily/2023-04-30, Sunday.md",
     "🖋️ Periodic Notes/2023.md",
     "🖋️ Periodic Notes/Daily/2023-04-29, Saturday.md",
@@ -161,8 +171,6 @@
     "💪 Physical Health/Exercise Log/2023/April/04-25-2023, Tuesday.md",
     "💻 Work/Stories/Sps approval email bugs.md",
     "/💻 Work/Stories/Sps approval email bugs.md",
-    "SPS.md",
-    "💻 Work/Stories/Refine UI for CivicGov & NEXT Search Link Integration.md",
-    "/SPS.md"
+    "SPS.md"
   ]
 }
