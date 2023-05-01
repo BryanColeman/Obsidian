@@ -18,8 +18,69 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6f191ef5a17d81e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🖋️ Periodic Notes/Templates/Daily.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "65cbde79c58a69cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🖋️ Periodic Notes/Templates/Weekly.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0f5d31f5d739e0a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🖋️ Periodic Notes/Templates/Monthly.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e6d3228fb80d0af1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🖋️ Periodic Notes/Templates/Quarterly.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d4d9f8b10a5cdce3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🖋️ Periodic Notes/Daily/2023-04-30, Sunday.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -146,11 +207,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b85c12b9338e53f3",
+  "active": "d4d9f8b10a5cdce3",
   "lastOpenFiles": [
     "🖋️ Periodic Notes/Daily/2023-04-29, Saturday.md",
-    "🖋️ Periodic Notes/Quarterly/2023, 2nd quarter.md",
+    "🖋️ Periodic Notes/Templates/Daily.md",
     "🖋️ Periodic Notes/Daily/2023-04-30, Sunday.md",
+    "🖋️ Periodic Notes/Templates/Yearly.md",
+    "🖋️ Periodic Notes/Templates/Quarterly.md",
+    "🖋️ Periodic Notes/Templates/Monthly.md",
+    "🖋️ Periodic Notes/Templates/Weekly.md",
+    "🖋️ Periodic Notes/Templates",
+    "🖋️ Periodic Notes/Quarterly/2023, 2nd quarter.md",
     "🖋️ Periodic Notes/2023.md",
     "🖋️ Periodic Notes/Weekly/2023, 17th week.md",
     "🖋️ Periodic Notes/Monthly/2023, April.md",
@@ -178,13 +245,7 @@
     "2 ATEST",
     "ToC.md",
     "SPS.md",
-    "a",
     "💪 Physical Health/Exercise Log/2023/April/04-24-2023, Monday.md",
-    "💪 Physical Health/Exercise Log/2023/April/04-25-2023, Tuesday.md",
-    "💪 Physical Health/🧘‍♂️ Stretching moves.md",
-    "💪 Physical Health/Exercise Log/2023/April/04-29-2023, Saturday.md",
-    "💪 Physical Health/Exercise Log/2023/April/04-26-2023, Wednesday.md",
-    "Physical Health/Exercise Log/2023/Q2/W17 April 24 - April 30/Wednesday.md",
     "Untitled 1.canvas"
   ]
 }

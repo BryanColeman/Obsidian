@@ -52,20 +52,20 @@
       "key": "8"
     }
   ],
-  "periodic-notes:open-daily-note": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "Numpad1"
-    }
-  ],
   "periodic-notes:open-weekly-note": [
     {
       "modifiers": [
         "Mod"
       ],
       "key": "Numpad2"
+    }
+  ],
+  "periodic-notes:open-yearly-note": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Numpad5"
     }
   ]
 }
