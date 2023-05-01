@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🖋️ Periodic Notes/Daily/2023-05-01, Monday.md",
-                "mode": "source",
+                "file": "🖋️ Periodic Notes/Templates/Daily.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -74,7 +74,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "🖋️ Periodic Notes/Daily/2023-05-01, Monday.md",
+            "file": "🖋️ Periodic Notes/Templates/Daily.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -91,7 +91,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "🖋️ Periodic Notes/Daily/2023-05-01, Monday.md",
+            "file": "🖋️ Periodic Notes/Templates/Daily.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -103,7 +103,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "🖋️ Periodic Notes/Daily/2023-05-01, Monday.md"
+            "file": "🖋️ Periodic Notes/Templates/Daily.md"
           }
         }
       }
@@ -125,8 +125,8 @@
   "active": "c130dfa0fce10e9d",
   "lastOpenFiles": [
     "💪 Physical Health/Exercise Log/2023/W18/05-01-2023, Monday.md",
-    "🖋️ Periodic Notes/Weekly/2023-W18.md",
     "🖋️ Periodic Notes/Daily/2023-05-01, Monday.md",
+    "🖋️ Periodic Notes/Weekly/2023-W18.md",
     "💪 Physical Health/Exercise Log/2023/W18/05-02-2023, Tuesday.md",
     "🖋️ Periodic Notes/2023.md",
     "🖋️ Periodic Notes/Templates/Daily.md",

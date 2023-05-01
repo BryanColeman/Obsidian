@@ -7,7 +7,8 @@
 - [ ] Feed cats
 - [ ] Feed dogs
 - [ ] Fill water filter
-- [ ] Take dogs out
+- [ ] Take dogs out 
+- [ ] Give dogs dental treats
 - [ ] Shower
 - [ ] Lotion
 - [ ] Deo
