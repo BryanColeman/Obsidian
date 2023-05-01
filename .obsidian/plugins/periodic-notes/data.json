@@ -10,7 +10,7 @@
   },
   "weekly": {
     "format": "",
-    "template": "",
+    "template": "🖋️ Periodic Notes/Templates/Weekly.md",
     "folder": "🖋️ Periodic Notes/Weekly",
     "enabled": true
   },
