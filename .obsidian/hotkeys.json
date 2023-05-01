@@ -92,14 +92,6 @@
       "key": "5"
     }
   ],
-  "periodic-notes:prev-daily-note": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "1"
-    }
-  ],
   "periodic-notes:prev-weekly-note": [
     {
       "modifiers": [
@@ -130,15 +122,6 @@
         "Alt"
       ],
       "key": "5"
-    }
-  ],
-  "periodic-notes:next-daily-note": [
-    {
-      "modifiers": [
-        "Alt",
-        "Shift"
-      ],
-      "key": "1"
     }
   ],
   "periodic-notes:next-weekly-note": [
@@ -175,6 +158,15 @@
         "Shift"
       ],
       "key": "5"
+    }
+  ],
+  "periodic-notes:next-daily-note": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "D"
     }
   ]
 }
