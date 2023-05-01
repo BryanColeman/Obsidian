@@ -5,23 +5,23 @@
   "daily": {
     "format": "YYYY-MM-DD, dddd",
     "template": "🖋️ Periodic Notes/Templates/Daily.md",
-    "folder": "/🖋️ Periodic Notes/Daily",
+    "folder": "🖋️ Periodic Notes/Daily",
     "enabled": true
   },
   "weekly": {
-    "format": "gggg, wo [week]",
+    "format": "",
     "template": "",
-    "folder": "/🖋️ Periodic Notes/Weekly",
+    "folder": "🖋️ Periodic Notes/Weekly",
     "enabled": true
   },
   "monthly": {
-    "format": "YYYY, MMMM",
+    "format": "YYYY-MM, MMMM",
     "template": "",
     "folder": "/🖋️ Periodic Notes/Monthly",
     "enabled": true
   },
   "quarterly": {
-    "format": "YYYY, Qo [quarter]",
+    "format": "",
     "template": "",
     "folder": "/🖋️ Periodic Notes/Quarterly",
     "enabled": true

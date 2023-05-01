@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🖋️ Periodic Notes/Daily/2023-04-30, Sunday.md",
+                "file": "💪 Physical Health/🧘‍♂️ Stretching moves.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7c21408b162f71dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "💪 Physical Health/Exercise Log/2023/W18/05-01-2023, Monday.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🖋️ Periodic Notes/Daily/2023-04-30, Sunday.md",
+                "file": "💪 Physical Health/Exercise Log/2023/W18/05-01-2023, Monday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🖋️ Periodic Notes/Daily/2023-04-30, Sunday.md",
+                "file": "💪 Physical Health/Exercise Log/2023/W18/05-01-2023, Monday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🖋️ Periodic Notes/Daily/2023-04-30, Sunday.md"
+                "file": "💪 Physical Health/Exercise Log/2023/W18/05-01-2023, Monday.md"
               }
             }
           }
@@ -131,8 +144,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,21 +158,30 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "248e05d0afebb252",
+  "active": "7c21408b162f71dc",
   "lastOpenFiles": [
+    "💪 Physical Health/🧘‍♂️ Stretching moves.md",
+    "💪 Physical Health/Exercise Log/2023/W18/05-01-2023, Monday.md",
+    "💪 Physical Health/Exercise Log/2023/W18",
+    "💪 Physical Health/Exercise Log/2023/W17/04-24-2023, Monday.md",
+    "🖋️ Periodic Notes/Templates/Weekly.md",
+    "💪 Physical Health/Exercise Log/2023/W17",
+    "🖋️ Periodic Notes/Templates/Yearly.md",
+    "🖋️ Periodic Notes/Weekly/2023-W18.md",
+    "🖋️ Periodic Notes/Monthly/2023-04, April.md",
+    "🖋️ Periodic Notes/Daily/2023-04-30, Sunday.md",
     "🖋️ Periodic Notes/2023.md",
+    "🖋️ Periodic Notes/Quarterly/2023-Q2.md",
     "🖋️ Periodic Notes/Monthly/2023, April.md",
+    "🖋️ Periodic Notes/Weekly/2023, 18th.md",
+    "🖋️ Periodic Notes/Weekly/2023, 18th week.md",
+    "🖋️ Periodic Notes/Weekly/2023, 17th week.md",
+    "🖋️ Periodic Notes/Templates/Daily.md",
     "🖋️ Periodic Notes/Daily/2023-04-29, Saturday.md",
     "🖋️ Periodic Notes/Quarterly/2023, 2nd quarter.md",
-    "🖋️ Periodic Notes/Daily/2023-04-30, Sunday.md",
-    "🖋️ Periodic Notes/Weekly/2023, 18th week.md",
-    "🖋️ Periodic Notes/Templates/Daily.md",
-    "🖋️ Periodic Notes/Templates/Yearly.md",
     "🖋️ Periodic Notes/Templates/Quarterly.md",
     "🖋️ Periodic Notes/Templates/Monthly.md",
-    "🖋️ Periodic Notes/Templates/Weekly.md",
     "🖋️ Periodic Notes/Templates",
-    "🖋️ Periodic Notes/Weekly/2023, 17th week.md",
     "conflict-files-obsidian-git.md",
     "🖋️ Periodic Notes/Daily/2023-04-28, Friday.md",
     "🖋️ Periodic Notes/Untitled 2/Untitled",
@@ -175,16 +196,7 @@
     "🖋️ Periodic Notes",
     "🖋️ Daily/2023-04-28, Friday.md",
     "🌞 Morning Routine.md",
-    "💪 Physical Health/Exercise Log/2023/April/04-28-2023, Friday.md",
-    "2023-04-28.md",
-    "🖋️ Daily",
-    "💻 Work/Stories/147293 - Refine UI for CivicGov & NEXT Search Link Integration.md",
-    "💻 Work/Stories/145213 - Sps approval email bugs.md",
-    "🐸 Possible Frogs.md",
-    "2 ATEST",
-    "ToC.md",
-    "SPS.md",
-    "💪 Physical Health/Exercise Log/2023/April/04-24-2023, Monday.md",
+    "💪 Physical Health/Exercise Log/2023/W17/04-28-2023, Friday.md",
     "Untitled 1.canvas"
   ]
 }
