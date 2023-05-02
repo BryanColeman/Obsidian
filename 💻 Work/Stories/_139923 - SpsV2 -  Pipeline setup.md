@@ -125,6 +125,11 @@
 							- task: AzureWebApp@1
 							- task: AzureRmWebAppDeployment@4
 	- Production 
-		- 
+		- [[jobs]]:
+		- [[deployment]] - Projects? _they can probably all be in the one_
+						- [[environment]] - Production
+						- strategy > runOnce > deploy > steps
+						- checkout - self
+							- task: AzureAppServiceManage@0 (swaps)
 ## Notes:
 - Focus on speed
