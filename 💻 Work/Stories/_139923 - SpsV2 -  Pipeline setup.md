@@ -11,10 +11,14 @@
 ## To do
 - Ask for permissions to change the main branch policy.
 	- Remove check for linked work items
-	- 
+	- Add build validations policies _see question 1_
+- 
 
 ## Implementation:
 - Use linux agents _this will help with speed_
+
+## Notes:
+- Focus on speed
 
 ## Questions (5 max unanswered):
 - What are the branch policies we need?
@@ -131,5 +135,3 @@
 						- strategy > runOnce > deploy > steps
 						- checkout - self
 							- task: AzureAppServiceManage@0 (swaps)
-## Notes:
-- Focus on speed
