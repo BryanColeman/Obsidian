@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🖋️ Periodic Notes/Daily/2023-05-01, Monday.md",
-                "mode": "preview",
+                "file": "🖋️ Periodic Notes/Daily/2023-05-02, Tuesday.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -74,7 +74,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "🖋️ Periodic Notes/Daily/2023-05-01, Monday.md",
+            "file": "🖋️ Periodic Notes/Daily/2023-05-02, Tuesday.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -91,7 +91,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "🖋️ Periodic Notes/Daily/2023-05-01, Monday.md",
+            "file": "🖋️ Periodic Notes/Daily/2023-05-02, Tuesday.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -103,7 +103,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "🖋️ Periodic Notes/Daily/2023-05-01, Monday.md"
+            "file": "🖋️ Periodic Notes/Daily/2023-05-02, Tuesday.md"
           }
         }
       }
@@ -124,10 +124,11 @@
   },
   "active": "c130dfa0fce10e9d",
   "lastOpenFiles": [
+    "🖋️ Periodic Notes/Daily/2023-05-01, Monday.md",
+    "🖋️ Periodic Notes/Daily/2023-05-02, Tuesday.md",
     "/🖋️ Periodic Notes/Templates/Daily.md",
     "/🖋️ Periodic Notes/Daily/2023-05-01, Monday.md",
     "🖋️ Periodic Notes/Templates/Daily.md",
-    "🖋️ Periodic Notes/Daily/2023-05-01, Monday.md",
     "🖋️ Periodic Notes/Weekly/2023-W18.md",
     "💪 Physical Health/Exercise Log/2023/W18/05-01-2023, Monday.md",
     "💪 Physical Health/Exercise Log/2023/W18/05-02-2023, Tuesday.md",
@@ -149,7 +150,6 @@
     "/🖋️ Periodic Notes/Templates/Yearly.md",
     "/🖋️ Periodic Notes/Templates/Quarterly.md",
     "/🖋️ Periodic Notes/Templates/Monthly.md",
-    "/🖋️ Periodic Notes/Quarterly/2023-Q2.md",
     "💪 Physical Health/Exercise Log/2023/W18",
     "💪 Physical Health/Exercise Log/2023/W17",
     "/💪 Physical Health/Exercise Log/2023/W18",

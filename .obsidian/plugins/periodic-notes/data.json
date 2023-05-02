@@ -4,24 +4,24 @@
   "hasMigratedWeeklyNoteSettings": false,
   "daily": {
     "format": "YYYY-MM-DD, dddd",
-    "template": "🖋️ Periodic Notes/Templates/Daily.md",
-    "folder": "🖋️ Periodic Notes/Daily",
+    "template": "/🖋️ Periodic Notes/Templates/Daily.md",
+    "folder": "/🖋️ Periodic Notes/Daily",
     "enabled": true
   },
   "weekly": {
-    "format": "",
-    "template": "🖋️ Periodic Notes/Templates/Weekly.md",
-    "folder": "🖋️ Periodic Notes/Weekly",
+    "format": "gggg, wo [week]",
+    "template": "",
+    "folder": "/🖋️ Periodic Notes/Weekly",
     "enabled": true
   },
   "monthly": {
-    "format": "YYYY-MM, MMMM",
+    "format": "YYYY, MMMM",
     "template": "",
     "folder": "/🖋️ Periodic Notes/Monthly",
     "enabled": true
   },
   "quarterly": {
-    "format": "",
+    "format": "YYYY, Qo [quarter]",
     "template": "",
     "folder": "/🖋️ Periodic Notes/Quarterly",
     "enabled": true
@@ -29,7 +29,7 @@
   "yearly": {
     "format": "",
     "template": "",
-    "folder": "🖋️ Periodic Notes/Yearly",
+    "folder": "/🖋️ Periodic Notes",
     "enabled": true
   }
 }
