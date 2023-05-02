@@ -11,9 +11,11 @@
             "id": "71c603b7b8c477d0",
             "type": "leaf",
             "state": {
-              "type": "make-folder-view",
+              "type": "markdown",
               "state": {
-                "contextPath": "🖋️ Periodic Notes/Yearly"
+                "file": "🖋️ Periodic Notes/Daily/2023-05-02, Tuesday.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -100,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "🖋️ Periodic Notes/Daily/2023-05-02, Tuesday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "🖋️ Periodic Notes/Daily/2023-05-02, Tuesday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +130,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "🖋️ Periodic Notes/Daily/2023-05-02, Tuesday.md"
+              }
             }
           },
           {
@@ -158,6 +164,7 @@
   },
   "active": "71c603b7b8c477d0",
   "lastOpenFiles": [
+    "🐸 Possible Frogs.md",
     "🖋️ Periodic Notes/Yearly/Yearly.md",
     "🖋️ Periodic Notes/Templates/Templates.md",
     "🖋️ Periodic Notes/Yearly",
@@ -187,7 +194,6 @@
     "💪 Physical Health/Exercise Log/2023/W18/05-05-2023, Friday.md",
     "💪 Physical Health/Exercise Log/2023/W18/05-03-2023, Wednesday.md",
     "💪 Physical Health/Exercise Log/2023/W18/05-02-2023, Tuesday.md",
-    "💪 Physical Health/🧘‍♂️ Stretching moves.md",
     "💪 Physical Health/Exercise Log/2023/W18",
     "💪 Physical Health/Exercise Log/2023/W17",
     "🖋️ Periodic Notes/Templates",

@@ -35,7 +35,9 @@
   "showRibbon": true,
   "deleteFileOption": "trash",
   "expandedFolders": {
-    "Obsidian": []
+    "Obsidian": [
+      "🖋️ Periodic Notes/Daily"
+    ]
   },
   "expandedSpaces": [
     "/",
