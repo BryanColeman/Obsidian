@@ -2,5 +2,9 @@
   "obsidian-git",
   "periodic-notes",
   "obsidian-emoji-toolbar",
-  "dbfolder"
+  "calendar",
+  "cmdr",
+  "obsidian-linter",
+  "nldates-obsidian",
+  "make-md"
 ]
