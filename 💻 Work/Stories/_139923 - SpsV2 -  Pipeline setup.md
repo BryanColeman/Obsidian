@@ -53,6 +53,9 @@
 	- Main
 		- [[trigger]]
 			- Meetings uses master (main)
+		- [[pool]]
+			- Meetings uses windows
+			- We want to use linux to see how it speeds things up
 		- 
 
 ## Notes:
