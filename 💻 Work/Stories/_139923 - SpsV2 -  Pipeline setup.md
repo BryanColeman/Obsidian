@@ -58,14 +58,31 @@
 			- We want to use linux to see how it speeds things up
 		- [[stages]]
 			- [[stage]] - Build
-			- displayName
 			- [[jobs]]
 				- [[job]]
 					- steps
 						- task: UseDotNet@2
 						- task: Nuget things
 						- task: Run front end things such as npm
-						- 
+						- task: Run unit tests
+						- task: Run migrations
+						- task: Publish projects
+						- task: Special commands to create run.exe for continous web jobs
+						- task: PublishPipelineArtifact@1
+			- [[stage]] - Deploy QA
+			- [[condition]] - and(succeeded(), eq(variables['Build.SourceBranchName'], 'master'))
+			- [[dependsOn]] - Build
+			- [[jobs]]
+				- [[job]]
+					- steps
+						- _Do we need to use UseDotNet@2 again?_
+						- [[deployment]] - Projects? _they can probably all be in the one_
+						- [[environment]] - Quality Assurance
+						- strategy > runOnce > deploy > steps
+						- checkout - self
+							- task: Migrations
+							- task: AzureWebApp@1
+							- task: AzureRmWebAppDeployment@4
 
 ## Notes:
 - Focus on speed
