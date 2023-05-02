@@ -49,7 +49,7 @@
 	- Quality Assurance
 	- Staging
 	- Production
-- What now? Let's look at main and take check of all we need. After this maybe put it through GPT?
+- What now? Let's look at the pipe and take check of all we need. After this maybe put it through GPT?
 	- Main
 		- [[trigger]]
 			- Meetings uses master (main)
@@ -98,15 +98,32 @@
 							- task: AzureWebApp@1
 							- task: AzureRmWebAppDeployment@4
 	- Build Dev1-4 (5 pipelines all together)
-		trigger: none
-
-pool:
-  vmImage: 'windows-latest'
-
-extends:
-  template: release-dev-slot.yml
-  parameters:
-    slotNumber: 3
+		### Dev1-4
+		- [[trigger]]: none
+		- [[pool]]
+			- Meetings uses windows
+			- We want to use linux to see how it speeds things up
+		- extends:
+			- template: release-dev-slot.yml
+			-  parameters:
+				- slotNumber: 3
+		### Deploy-dev-slot
+		- parameters:
+		- name: slotNumber
+		- type: number
+		- values:
+			- 1
+			- 2
+			- 3
+			- 4
+		- [[jobs]]:
+		- [[deployment]] - Projects? _they can probably all be in the one_
+						- [[environment]] - Development 
+						- strategy > runOnce > deploy > steps
+						- checkout - self
+							- task: DownloadPipelineArtifact@2
+							- task: AzureWebApp@1
+							- task: AzureRmWebAppDeployment@4
 	- Production 
 		- 
 ## Notes:
