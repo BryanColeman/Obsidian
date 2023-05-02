@@ -1,6 +1,8 @@
 - Clean carpets
 - Update resume
 - Guest bath
-	- Closet trim
+	- Closet trim 
+	- Curtain rod 
 	- Flip door 
 - Move notes to Obsidian
+- Todoist Labels
