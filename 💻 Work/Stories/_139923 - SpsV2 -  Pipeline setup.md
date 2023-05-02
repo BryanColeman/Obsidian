@@ -83,6 +83,20 @@
 							- task: Migrations
 							- task: AzureWebApp@1
 							- task: AzureRmWebAppDeployment@4
+			- [[stage]] - Deploy Staging
+			- [[condition]] - and(succeeded(), eq(variables['Build.SourceBranchName'], 'master'))
+			- [[dependsOn]] - Deploy QA
+			- [[jobs]]
+				- [[job]]
+					- steps
+						- _Do we need to use UseDotNet@2 again?_
+						- [[deployment]] - Projects? _they can probably all be in the one_
+						- [[environment]] - Quality Assurance (approval check)
+						- strategy > runOnce > deploy > steps
+						- checkout - self
+							- task: Migrations
+							- task: AzureWebApp@1
+							- task: AzureRmWebAppDeployment@4
 
 ## Notes:
 - Focus on speed
