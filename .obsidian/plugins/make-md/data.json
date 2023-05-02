@@ -36,14 +36,20 @@
   "deleteFileOption": "trash",
   "expandedFolders": {
     "Obsidian": [
-      "🖋️ Periodic Notes/Daily"
+      "🖋️ Periodic Notes",
+      "💻 Work",
+      "💪 Physical Health",
+      "💻 Work/Stories",
+      "💪 Physical Health/Exercise Log",
+      "💪 Physical Health/Exercise Log/2023",
+      "💪 Physical Health/Exercise Log/2023/W18",
+      "💪 Physical Health/Exercise Log/2023/W17"
     ]
   },
   "expandedSpaces": [
     "/",
     null,
-    "Obsidian",
-    null
+    "Obsidian"
   ],
   "openFolders": [],
   "fileIcons": [],
@@ -73,7 +79,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1682997972380,
+  "spacesAutoBackupLast": 1683027859043,
   "spacesUseAlias": false,
   "precreateVaultSpace": true
 }
