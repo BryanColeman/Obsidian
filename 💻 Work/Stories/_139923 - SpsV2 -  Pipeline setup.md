@@ -49,6 +49,9 @@
 	- Quality Assurance
 	- Staging
 	- Production
+- What now? Let's look at main and take check of all we need. After this maybe put it through GPT?
+	- Main
+		- 
 
 ## Notes:
 - Focus on speed

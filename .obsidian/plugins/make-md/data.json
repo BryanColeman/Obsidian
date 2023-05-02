@@ -35,7 +35,10 @@
   "showRibbon": true,
   "deleteFileOption": "trash",
   "expandedFolders": {
-    "Obsidian": []
+    "Obsidian": [
+      "💻 Work",
+      "💻 Work/Stories"
+    ]
   },
   "expandedSpaces": [
     "/",
@@ -70,7 +73,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1683037339146,
+  "spacesAutoBackupLast": 1683040791177,
   "spacesUseAlias": false,
   "precreateVaultSpace": true
 }
