@@ -11,8 +11,12 @@
             "id": "71c603b7b8c477d0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "🖋️ Periodic Notes/Daily/2023-04-30, Sunday.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "🖋️ Periodic Notes/Daily/2023-04-30, Sunday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "🖋️ Periodic Notes/Daily/2023-04-30, Sunday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "🖋️ Periodic Notes/Daily/2023-04-30, Sunday.md"
+              }
             }
           },
           {
@@ -145,13 +153,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "adef80c8f641c043",
+  "active": "71c603b7b8c477d0",
   "lastOpenFiles": [
+    "🖋️ Periodic Notes/Daily/2023-04-29, Saturday.md",
+    "🖋️ Periodic Notes/Daily/2023-05-02, Tuesday.md",
+    "🖋️ Periodic Notes/Daily/2023-05-01, Monday.md",
     "Context/spacesLastSync.log",
     "Context",
     "💪 Physical Health/Exercise Log/2023/2023.md",
     "💪 Physical Health/Exercise Log/Exercise Log.md",
-    "🖋️ Periodic Notes/Daily/2023-05-02, Tuesday.md",
     "🖋️ Periodic Notes/Yearly/2023.md",
     "🖋️ Periodic Notes/Yearly",
     "🖋️ Periodic Notes/2023.md",
@@ -173,7 +183,6 @@
     "Day Planners",
     "💻 Work/Stories/_139923 - SpsV2 -  Pipeline setup.md",
     "💻 Work/Stories/147293 - Refine UI for CivicGov & NEXT Search Link Integration.md",
-    "🖋️ Periodic Notes/Daily/2023-05-01, Monday.md",
     "🖋️ Periodic Notes/Templates/Daily.md",
     "💻 Work/Stories/145213 - Sps approval email bugs.md",
     "💪 Physical Health/Exercise Log/2023/W18",

@@ -34,10 +34,13 @@
   "sidebarTabs": true,
   "showRibbon": true,
   "deleteFileOption": "trash",
-  "expandedFolders": {},
+  "expandedFolders": {
+    "Obsidian": []
+  },
   "expandedSpaces": [
     "/",
-    null
+    null,
+    "Obsidian"
   ],
   "openFolders": [],
   "fileIcons": [],
@@ -67,7 +70,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1683036412672,
+  "spacesAutoBackupLast": 1683037339146,
   "spacesUseAlias": false,
   "precreateVaultSpace": true
 }
