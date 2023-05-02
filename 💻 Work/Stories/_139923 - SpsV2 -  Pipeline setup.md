@@ -57,7 +57,12 @@
 			- Meetings uses windows
 			- We want to use linux to see how it speeds things up
 		- [[stages]]
-		- 
+			- [[stage]] - Build
+			- displayName
+			- [[jobs]]
+				- [[job]]
+					- steps
+						- task - 
 
 ## Notes:
 - Focus on speed
