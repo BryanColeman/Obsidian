@@ -12,7 +12,19 @@
 - Ask for permissions to change the main branch policy.
 	- Remove check for linked work items
 	- Add build validations policies _see question 1_
-- 
+- Add environments to DevOps _see question 7_
+	- Development - It's okay to have the dev sites share an azure environment
+	- Quality Assurance
+	- Staging
+	- Production 
+- Create main pipeline _see last question_
+- Create the 5 dev environments _see last question_
+	- Deploy dev
+	- dev1
+	- dev2
+	- dev3
+	- dev4
+- Create the production pipeline _see last questions_
 
 ## Implementation:
 - Use linux agents _this will help with speed_
