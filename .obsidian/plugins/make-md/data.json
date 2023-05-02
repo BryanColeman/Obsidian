@@ -35,16 +35,7 @@
   "showRibbon": true,
   "deleteFileOption": "trash",
   "expandedFolders": {
-    "Obsidian": [
-      "🖋️ Periodic Notes",
-      "💻 Work",
-      "💪 Physical Health",
-      "💻 Work/Stories",
-      "💪 Physical Health/Exercise Log",
-      "💪 Physical Health/Exercise Log/2023",
-      "💪 Physical Health/Exercise Log/2023/W18",
-      "💪 Physical Health/Exercise Log/2023/W17"
-    ]
+    "Obsidian": []
   },
   "expandedSpaces": [
     "/",
@@ -79,7 +70,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1683027859043,
+  "spacesAutoBackupLast": 1683028476906,
   "spacesUseAlias": false,
   "precreateVaultSpace": true
 }
