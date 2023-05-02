@@ -62,7 +62,10 @@
 			- [[jobs]]
 				- [[job]]
 					- steps
-						- task - 
+						- task: UseDotNet@2
+						- task: Nuget things
+						- task: Run front end things such as npm
+						- 
 
 ## Notes:
 - Focus on speed

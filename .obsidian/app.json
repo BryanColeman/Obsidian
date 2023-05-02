@@ -24,5 +24,8 @@
     "editor:redo",
     "editor:toggle-keyboard",
     "editor:configure-toolbar"
-  ]
+  ],
+  "showLineNumber": true,
+  "tabSize": 2,
+  "useTab": true
 }
