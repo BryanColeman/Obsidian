@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🖋️ Periodic Notes/Daily/2023-05-01, Monday.md",
+                "file": "🖋️ Periodic Notes/Daily/2023-05-02, Tuesday.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "dead",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,18 +66,19 @@
             }
           },
           {
-            "id": "0ab72d3da022458b",
+            "id": "135db427099967c5",
             "type": "leaf",
             "state": {
-              "type": "recent-files",
+              "type": "mk-file-view",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 286.5
+    "width": 310.5
   },
   "right": {
     "id": "5b682cf4169076f3",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🖋️ Periodic Notes/Daily/2023-05-01, Monday.md",
+                "file": "🖋️ Periodic Notes/Daily/2023-05-02, Tuesday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🖋️ Periodic Notes/Daily/2023-05-01, Monday.md",
+                "file": "🖋️ Periodic Notes/Daily/2023-05-02, Tuesday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,17 +123,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🖋️ Periodic Notes/Daily/2023-05-01, Monday.md"
+                "file": "🖋️ Periodic Notes/Daily/2023-05-02, Tuesday.md"
               }
+            }
+          },
+          {
+            "id": "bac79a94c0b9a48d",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 357.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -142,49 +150,48 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
-      "dbfolder:Create a new database table": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "71c603b7b8c477d0",
+  "active": "135db427099967c5",
   "lastOpenFiles": [
-    "🖋️ Periodic Notes/Templates/Daily.md",
+    "🖋️ Periodic Notes/2023.md",
+    "🌞 Morning Routine.md",
+    "💪 Physical Health/Exercise Log/2023/W18/05-02-2023, Tuesday.md",
+    "💪 Physical Health/Exercise Log/2023/W18/05-01-2023, Monday.md",
+    "💪 Physical Health/💪 Physical Health.md",
+    "🖋️ Periodic Notes/Daily/2023-05-02, Tuesday.md",
+    "🐸 Possible Frogs.md",
+    "🖋️ Periodic Notes/Yearly/Yearly.md",
+    "🖋️ Periodic Notes/Templates/Templates.md",
+    "🖋️ Periodic Notes/Yearly",
+    "💪 Physical Health/Exercise Log/2023/W18/W18.md",
+    "💪 Physical Health/Exercise Log/2023/W17/W17.md",
+    "💪 Physical Health/Exercise Log/2023/2023.md",
+    "💪 Physical Health/Exercise Log/Exercise Log.md",
+    "💻 Work/Stories/Stories.md",
+    "💻 Work/💻 Work.md",
+    "🖋️ Periodic Notes/🖋️ Periodic Notes.md",
+    "🖋️ Periodic Notes/Templates/Quarterly.md",
+    "Day Planners/Day Planner-20230501.md",
+    "🖋️ Periodic Notes/Weekly/2023-W18.md",
+    "Context/spacesLastSync.log",
+    "Context",
+    "Day Planners",
     "💻 Work/Stories/_139923 - SpsV2 -  Pipeline setup.md",
-    "💻 Work/Stories/145213 - Sps approval email bugs.md",
     "💻 Work/Stories/147293 - Refine UI for CivicGov & NEXT Search Link Integration.md",
     "🖋️ Periodic Notes/Daily/2023-05-01, Monday.md",
-    "🖋️ Periodic Notes/Weekly/2023-W18.md",
-    "💪 Physical Health/Exercise Log/2023/W18/05-01-2023, Monday.md",
+    "🖋️ Periodic Notes/Templates/Daily.md",
+    "💻 Work/Stories/145213 - Sps approval email bugs.md",
     "🖋️ Periodic Notes/Templates/Weekly.md",
     "💪 Physical Health/Exercise Log/2023/W18/05-06-2023, Saturday.md",
-    "💪 Physical Health/Exercise Log/2023/W18/05-05-2023, Friday.md",
-    "💪 Physical Health/Exercise Log/2023/W18/05-03-2023, Wednesday.md",
-    "💪 Physical Health/Exercise Log/2023/W18/05-02-2023, Tuesday.md",
-    "💪 Physical Health/🧘‍♂️ Stretching moves.md",
     "💪 Physical Health/Exercise Log/2023/W18",
-    "💪 Physical Health/Exercise Log/2023/W17/04-24-2023, Monday.md",
     "💪 Physical Health/Exercise Log/2023/W17",
-    "🖋️ Periodic Notes/Templates/Yearly.md",
-    "🖋️ Periodic Notes/Monthly/2023-04, April.md",
-    "🖋️ Periodic Notes/Daily/2023-04-30, Sunday.md",
-    "🖋️ Periodic Notes/2023.md",
-    "🖋️ Periodic Notes/Quarterly/2023-Q2.md",
-    "🖋️ Periodic Notes/Monthly/2023, April.md",
-    "🖋️ Periodic Notes/Weekly/2023, 18th.md",
-    "🖋️ Periodic Notes/Weekly/2023, 18th week.md",
-    "🖋️ Periodic Notes/Weekly/2023, 17th week.md",
-    "🖋️ Periodic Notes/Daily/2023-04-29, Saturday.md",
-    "🖋️ Periodic Notes/Quarterly/2023, 2nd quarter.md",
-    "🖋️ Periodic Notes/Templates/Quarterly.md",
     "🖋️ Periodic Notes/Templates",
     "🖋️ Periodic Notes/Untitled 2/Untitled",
     "🖋️ Periodic Notes/Quarterly",
     "🖋️ Periodic Notes/Monthly",
-    "🖋️ Periodic Notes/Weekly",
-    "🖋️ Periodic Notes/Weekly",
-    "🖋️ Periodic Notes/Daily",
     "Untitled.canvas",
-    "🖋️ Periodic Notes",
     "Untitled 1.canvas"
   ]
 }
