@@ -56,6 +56,7 @@
 		- [[pool]]
 			- Meetings uses windows
 			- We want to use linux to see how it speeds things up
+		- [[stages]]
 		- 
 
 ## Notes:
