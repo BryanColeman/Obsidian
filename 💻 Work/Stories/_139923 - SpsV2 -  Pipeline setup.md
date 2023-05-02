@@ -51,6 +51,8 @@
 	- Production
 - What now? Let's look at main and take check of all we need. After this maybe put it through GPT?
 	- Main
+		- [[trigger]]
+			- Meetings uses master (main)
 		- 
 
 ## Notes:
