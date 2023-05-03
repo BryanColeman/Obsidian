@@ -13,11 +13,10 @@
 - [ ] Lotion
 - [ ] Deo
 - [ ] Brush teeth
-- [ ] Tell Holly you won't drink today
 - [ ] Plan day
 
-## Afternoon 
-- [ ] Tell Holly you are still not drinking today
+## Whenever
+- [ ] Bird seeds
 
 ## Evening
 - [ ] CanPay spin
@@ -28,10 +27,8 @@
 - [ ] Deo 
 - [ ] Brush Teeth 
 
-## Dinner 
-
-
-## To do
-- [ ] 
+## Dinner
 
 ## Notes 
+
+##### Continuous 

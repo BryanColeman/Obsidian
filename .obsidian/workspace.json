@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "eac5d224f68fdb53",
+        "id": "2fa6f23343f1a966",
         "type": "tabs",
         "children": [
           {
-            "id": "71c603b7b8c477d0",
+            "id": "2dd4fc81243e0d42",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🖋️ Periodic Notes/Weekly/2023-W18.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7b0843728dada336",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "💪 Physical Health/Exercise Log/2023/W18/05-06-2023, Saturday.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "13da9d356a77fe1d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "💪 Physical Health/Exercise Log/2023/W18/05-05-2023, Friday.md",
-                "mode": "source",
+                "file": "💪 Physical Health/Exercise Log/2023/W18/05-03-2023, Wednesday.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -73,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dead",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,23 +58,23 @@
             }
           },
           {
-            "id": "625b50c41e731e47",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
             "id": "e8eb440d6cedb71c",
             "type": "leaf",
             "state": {
               "type": "mk-file-view",
               "state": {}
             }
+          },
+          {
+            "id": "d4b83ccbbdc331b6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -119,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "💪 Physical Health/Exercise Log/2023/W18/05-05-2023, Friday.md",
+                "file": "💪 Physical Health/Exercise Log/2023/W18/05-03-2023, Wednesday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "💪 Physical Health/Exercise Log/2023/W18/05-05-2023, Friday.md",
+                "file": "💪 Physical Health/Exercise Log/2023/W18/05-03-2023, Wednesday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "💪 Physical Health/Exercise Log/2023/W18/05-05-2023, Friday.md"
+                "file": "💪 Physical Health/Exercise Log/2023/W18/05-03-2023, Wednesday.md"
               }
             }
           },
@@ -165,7 +140,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 357.5
+    "width": 305.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,44 +153,44 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "13da9d356a77fe1d",
+  "active": "2dd4fc81243e0d42",
   "lastOpenFiles": [
+    "🖋️ Periodic Notes/Weekly/2023-W18.md",
+    "🐸 Possible Frogs.md",
+    "💪 Physical Health/Exercise Log/2023/W17/04-24-2023, Monday.md",
+    "🖋️ Periodic Notes/Daily/2023-05-02, Tuesday.md",
+    "🖋️ Periodic Notes/Daily/2023-05-03, Wednesday.md",
+    "🖋️ Periodic Notes/Templates/Yearly.md",
+    "🖋️ Periodic Notes/Templates/Quarterly.md",
+    "🖋️ Periodic Notes/Templates/Monthly.md",
+    "🖋️ Periodic Notes/Templates/Weekly.md",
+    "🖋️ Periodic Notes/Daily/2023-04-29, Saturday.md",
+    "🖋️ Periodic Notes/Daily/2023-04-30, Sunday.md",
+    "🖋️ Periodic Notes/Daily/2023-05-01, Monday.md",
+    "🖋️ Periodic Notes/Templates/Daily.md",
+    "💻 Work/Stories/current - 139923 - SpsV2 -  Pipeline setup.md",
+    "💪 Physical Health/Exercise Log/2023/W19/2023-05-10, Wednesday.md",
+    "💪 Physical Health/Exercise Log/2023/W19/2023-05-12, Friday.md",
+    "💪 Physical Health/Exercise Log/2023/W19/2023-05-13, Saturday.md",
+    "💪 Physical Health/Exercise Log/2023/W19/2023-05-09, Tuesday.md",
+    "💪 Physical Health/Exercise Log/2023/W19/2023-05-08, Monday.md",
+    "💪 Physical Health/Exercise Log/2023/W18/05-01-2023, Monday.md",
+    "💪 Physical Health/Exercise Log/2023/W18/05-06-2023, Saturday.md",
     "💪 Physical Health/Exercise Log/2023/W18/05-03-2023, Wednesday.md",
     "💪 Physical Health/Exercise Log/2023/W18/05-05-2023, Friday.md",
-    "💪 Physical Health/Exercise Log/2023/W18/05-06-2023, Saturday.md",
-    "🖋️ Periodic Notes/Weekly/2023-W18.md",
-    "💻 Work/Stories/_139923 - SpsV2 -  Pipeline setup.md",
-    "🐸 Possible Frogs.md",
-    "🖋️ Periodic Notes/Daily/2023-05-02, Tuesday.md",
+    "💪 Physical Health/Exercise Log/2023/W19",
+    "🖋️ Periodic Notes/Weekly/2023-W19.md",
+    "💪 Physical Health/Exercise Log/2023/W18/05-02-2023, Tuesday.md",
     "💻 Work/Stories/Stories.md",
-    "💻 Work/💻 Work.md",
-    "🖋️ Periodic Notes/Daily/2023-04-30, Sunday.md",
-    "🖋️ Periodic Notes/Daily/2023-04-29, Saturday.md",
-    "🖋️ Periodic Notes/Daily/2023-05-01, Monday.md",
     "Context/spacesLastSync.log",
     "Context",
-    "💪 Physical Health/Exercise Log/2023/2023.md",
-    "💪 Physical Health/Exercise Log/Exercise Log.md",
-    "🖋️ Periodic Notes/Yearly/2023.md",
     "🖋️ Periodic Notes/Yearly",
-    "🖋️ Periodic Notes/2023.md",
-    "🌞 Morning Routine.md",
-    "💪 Physical Health/Exercise Log/2023/W18/05-02-2023, Tuesday.md",
-    "💪 Physical Health/Exercise Log/2023/W18/05-01-2023, Monday.md",
-    "💪 Physical Health/💪 Physical Health.md",
-    "🖋️ Periodic Notes/Yearly/Yearly.md",
-    "🖋️ Periodic Notes/Templates/Templates.md",
-    "💪 Physical Health/Exercise Log/2023/W18/W18.md",
-    "💪 Physical Health/Exercise Log/2023/W17/W17.md",
-    "🖋️ Periodic Notes/🖋️ Periodic Notes.md",
-    "🖋️ Periodic Notes/Templates/Quarterly.md",
     "Day Planners",
     "💪 Physical Health/Exercise Log/2023/W18",
     "💪 Physical Health/Exercise Log/2023/W17",
     "🖋️ Periodic Notes/Templates",
     "🖋️ Periodic Notes/Untitled 2/Untitled",
     "🖋️ Periodic Notes/Quarterly",
-    "🖋️ Periodic Notes/Monthly",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

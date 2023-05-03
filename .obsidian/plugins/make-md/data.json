@@ -23,31 +23,33 @@
   "spacesEnabled": true,
   "spacesPerformance": false,
   "collapsedTags": [],
-  "enableFolderNote": true,
+  "enableFolderNote": false,
   "folderIndentationLines": true,
   "revealActiveFile": false,
   "spacesStickers": true,
   "spaceRowHeight": 29,
   "spacesDisablePatch": false,
-  "folderNoteInsideFolder": true,
-  "folderNoteDefaultView": true,
+  "folderNoteInsideFolder": false,
+  "folderNoteDefaultView": false,
   "sidebarTabs": true,
   "showRibbon": true,
   "deleteFileOption": "trash",
   "expandedFolders": {
     "Obsidian": [
-      "💻 Work",
       "💻 Work/Stories",
-      "💪 Physical Health",
       "💪 Physical Health/Exercise Log",
       "💪 Physical Health/Exercise Log/2023",
-      "💪 Physical Health/Exercise Log/2023/W18"
+      "🖋️ Periodic Notes/Daily",
+      "🖋️ Periodic Notes/Templates",
+      "💪 Physical Health",
+      "💪 Physical Health/Exercise Log/2023/W19"
     ]
   },
   "expandedSpaces": [
     "/",
     null,
-    "Obsidian"
+    "Obsidian",
+    null
   ],
   "openFolders": [],
   "fileIcons": [],
@@ -77,7 +79,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1683040791177,
+  "spacesAutoBackupLast": 1683080916964,
   "spacesUseAlias": false,
   "precreateVaultSpace": true
 }
