@@ -15,7 +15,7 @@
   "saveAllContextToFrontmatter": true,
   "editorFlowStyle": "seamless",
   "autoOpenFileContext": false,
-  "activeView": "all",
+  "activeView": "root",
   "hideFrontmatter": true,
   "activeSpace": "",
   "spacesCompactMode": false,
@@ -36,20 +36,14 @@
   "deleteFileOption": "trash",
   "expandedFolders": {
     "Obsidian": [
-      "💪 Physical Health",
       "💻 Work",
-      "🖋️ Periodic Notes",
-      "💪 Physical Health/Exercise Log",
-      "💪 Physical Health/Exercise Log/2023",
-      "💪 Physical Health/Exercise Log/2023/W18",
-      "🖋️ Periodic Notes/Weekly"
+      "💻 Work/Stories"
     ]
   },
   "expandedSpaces": [
     "/",
     null,
-    "Obsidian",
-    null
+    "Obsidian"
   ],
   "openFolders": [],
   "fileIcons": [],
@@ -79,7 +73,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1683075683739,
+  "spacesAutoBackupLast": 1683040791177,
   "spacesUseAlias": false,
   "precreateVaultSpace": true
 }
