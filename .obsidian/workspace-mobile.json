@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🖋️ Periodic Notes/Daily/2023-05-01, Monday.md",
-                "mode": "preview",
+                "file": "💪 Physical Health/Exercise Log/2023/W18/05-03-2023, Wednesday.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -60,9 +60,27 @@
           "type": "starred",
           "state": {}
         }
+      },
+      {
+        "id": "4192ea9c3dc7f8d6",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "da9cb685d8eac740",
+        "type": "leaf",
+        "state": {
+          "type": "mk-file-view",
+          "state": {}
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 4
   },
   "right": {
     "id": "357e1cc0ca11d137",
@@ -74,7 +92,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "🖋️ Periodic Notes/Daily/2023-05-01, Monday.md",
+            "file": "💪 Physical Health/Exercise Log/2023/W18/05-03-2023, Wednesday.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -91,7 +109,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "🖋️ Periodic Notes/Daily/2023-05-01, Monday.md",
+            "file": "💪 Physical Health/Exercise Log/2023/W18/05-03-2023, Wednesday.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -103,8 +121,16 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "🖋️ Periodic Notes/Daily/2023-05-01, Monday.md"
+            "file": "💪 Physical Health/Exercise Log/2023/W18/05-03-2023, Wednesday.md"
           }
+        }
+      },
+      {
+        "id": "ffe2335e8ab55658",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
         }
       }
     ],
@@ -112,7 +138,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "dbfolder:Create a new database table": false,
       "workspaces:Manage workspace layouts": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -124,11 +149,13 @@
   },
   "active": "c130dfa0fce10e9d",
   "lastOpenFiles": [
+    "🖋️ Periodic Notes/Daily/2023-05-02, Tuesday.md",
+    "💪 Physical Health/Exercise Log/2023/W18/05-03-2023, Wednesday.md",
+    "🖋️ Periodic Notes/Weekly/2023-W18.md",
+    "🖋️ Periodic Notes/Daily/2023-05-01, Monday.md",
     "/🖋️ Periodic Notes/Templates/Daily.md",
     "/🖋️ Periodic Notes/Daily/2023-05-01, Monday.md",
     "🖋️ Periodic Notes/Templates/Daily.md",
-    "🖋️ Periodic Notes/Daily/2023-05-01, Monday.md",
-    "🖋️ Periodic Notes/Weekly/2023-W18.md",
     "💪 Physical Health/Exercise Log/2023/W18/05-01-2023, Monday.md",
     "💪 Physical Health/Exercise Log/2023/W18/05-02-2023, Tuesday.md",
     "🖋️ Periodic Notes/2023.md",
@@ -141,7 +168,6 @@
     "🖋️ Periodic Notes/Quarterly/2023-Q2.md",
     "💪 Physical Health/Exercise Log/2023/W18/05-06-2023, Saturday.md",
     "💪 Physical Health/Exercise Log/2023/W18/05-05-2023, Friday.md",
-    "💪 Physical Health/Exercise Log/2023/W18/05-03-2023, Wednesday.md",
     "💪 Physical Health/Exercise Log/2023/W17/04-26-2023, Wednesday.md",
     "💪 Physical Health/Exercise Log/2023/W17/04-24-2023, Monday.md",
     "/💪 Physical Health/Exercise Log/2023/W17/04-28-2023, Friday.md",
@@ -149,7 +175,6 @@
     "/🖋️ Periodic Notes/Templates/Yearly.md",
     "/🖋️ Periodic Notes/Templates/Quarterly.md",
     "/🖋️ Periodic Notes/Templates/Monthly.md",
-    "/🖋️ Periodic Notes/Quarterly/2023-Q2.md",
     "💪 Physical Health/Exercise Log/2023/W18",
     "💪 Physical Health/Exercise Log/2023/W17",
     "/💪 Physical Health/Exercise Log/2023/W18",
