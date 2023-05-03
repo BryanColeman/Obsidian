@@ -36,14 +36,19 @@
   "deleteFileOption": "trash",
   "expandedFolders": {
     "Obsidian": [
-      "💪 Physical Health"
+      "💪 Physical Health",
+      "Physical Health",
+      "Physical Health/Exercise Log",
+      "Physical Health/Exercise Log/2023",
+      "Physical Health/Exercise Log/2023/W19",
+      "Physical Health/Exercise Log/2023/W18"
     ]
   },
   "expandedSpaces": [
     "/",
     null,
-    null,
-    "Obsidian"
+    "Obsidian",
+    null
   ],
   "openFolders": [],
   "fileIcons": [],
@@ -73,7 +78,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1683113254606,
+  "spacesAutoBackupLast": 1683120877474,
   "spacesUseAlias": false,
   "precreateVaultSpace": true
 }

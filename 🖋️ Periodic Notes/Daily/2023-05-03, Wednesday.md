@@ -9,11 +9,11 @@
 - [x] Fill animal waters
 - [x] Fill water filter
 - [x] Take dogs out 
-- [ ] Give dogs dental treats
+- [x] Give dogs dental treats
 - [ ] Shower
 - [x] Lotion
 - [x] Deo
-- [ ] Brush teeth
+- [x] Brush teeth
 - [x] Plan day
 
 ## Workout 
