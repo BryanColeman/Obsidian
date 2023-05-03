@@ -42,8 +42,15 @@
 - [ ] Brush Teeth 
 
 ## Dinner
+- https://marleyspoon.com/menu/122307-grilled-mediterranean-beef-patty-veggies-with-warm-pita-yogurt
+- https://marleyspoon.com/menu/88322-cheesy-baked-pinto-beans-with-cilantro-jalapeno-rice
+- https://www.kitchenstories.com/en/recipes/easy-cheesy-tortellini-with-red-pepper-pesto
+- https://www.kitchenstories.com/en/recipes/veggie-burrito-bowl
+- https://marleyspoon.com/menu/128854-easy-prep-mediterranean-sheet-pan-chicken-with-crispy-chickpeas
 
 ## Notes 
+- Meal prep
+	- https://cooking.nytimes.com/recipes/1022532-bean-and-cheese-burritos?module=Recipe+of+The+Day&pgType=homepage&action=click
 
 ##### Continuous
 - https://help.obsidian.md/Editing+and+formatting/Callouts

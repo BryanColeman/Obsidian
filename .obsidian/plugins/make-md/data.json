@@ -35,17 +35,7 @@
   "showRibbon": true,
   "deleteFileOption": "trash",
   "expandedFolders": {
-    "Obsidian": [
-      "💻 Work/Stories",
-      "💪 Physical Health/Exercise Log",
-      "💪 Physical Health/Exercise Log/2023",
-      "🖋️ Periodic Notes/Daily",
-      "🖋️ Periodic Notes/Templates",
-      "💪 Physical Health",
-      "💪 Physical Health/Exercise Log/2023/W19",
-      "🖋️ Periodic Notes",
-      "🖋️ Periodic Notes/Yearly"
-    ]
+    "Obsidian": []
   },
   "expandedSpaces": [
     "/",

@@ -49,6 +49,89 @@
 	- Quality Assurance
 	- Staging
 	- Production
+-  What now? Let's look at the pipe and take check of all we need. After this maybe put it through GPT?
+    -   Main
+        -   [[trigger]]
+            -   Meetings uses master (main)
+        -   [[pool]]
+            -   Meetings uses windows
+            -   We want to use linux to see how it speeds things up
+        -   [[stages]]
+            -   [[stage]] - Build
+            -   [[jobs]]
+                -   [[job]]
+                    -   steps
+                        -   task: UseDotNet@2
+                        -   task: Nuget things
+                        -   task: Run front end things such as npm
+                        -   task: Run unit tests
+                        -   task: Run migrations
+                        -   task: Publish projects
+                        -   task: Special commands to create run.exe for continous web jobs
+                        -   task: PublishPipelineArtifact@1
+            -   [[stage]] - Deploy QA
+            -   [[condition]] - and(succeeded(), eq(variables['Build.SourceBranchName'], 'master'))
+            -   [[dependsOn]] - Build
+            -   [[jobs]]
+                -   [[job]]
+                    -   steps
+                        -   _Do we need to use UseDotNet@2 again?_
+                        -   [[deployment]] - Projects? _they can probably all be in the one_
+                        -   [[environment]] - Quality Assurance
+                        -   strategy > runOnce > deploy > steps
+                        -   checkout - self
+                            -   task: Migrations
+                            -   task: AzureWebApp@1
+                            -   task: AzureRmWebAppDeployment@4
+            -   [[stage]] - Deploy Staging
+            -   [[condition]] - and(succeeded(), eq(variables['Build.SourceBranchName'], 'master'))
+            -   [[dependsOn]] - Deploy QA
+            -   [[jobs]]
+                -   [[job]]
+                    -   steps
+                        -   _Do we need to use UseDotNet@2 again?_
+                        -   [[deployment]] - Projects? _they can probably all be in the one_
+                        -   [[environment]] - Staginge (approval check)
+                        -   strategy > runOnce > deploy > steps
+                        -   checkout - self
+                            -   task: Migrations
+                            -   task: AzureWebApp@1
+                            -   task: AzureRmWebAppDeployment@4
+    -   Build Dev1-4 (5 pipelines all together)
+        -   [[trigger]]: none
+	-   [[pool]]
+		-   Meetings uses windows
+		-   We want to use linux to see how it speeds things up
+	-   extends:
+		-   template: release-dev-slot.yml
+		-   parameters:
+			-   slotNumber: 3
+
+	- parameters:
+	- name: slotNumber
+	- type: number
+	- values:
+		-   1
+		-   2
+		-   3
+		-   4
+	-   [[jobs]]:
+	-   [[deployment]] 
+		- Projects? _they can probably all be in the one_ 
+		- [[environment]] -Development 
+		- strategy > runOnce > deploy > steps 
+			- checkout - self 
+			- task: DownloadPipelineArtifact@2 
+			- task: AzureWebApp@1 
+			- task: AzureRmWebAppDeployment@4
+	-   Production
+	-   [[jobs]]:
+	-   [[deployment]] 
+		- Projects? _they can probably all be in the one_ -
+		- [[environment]] - Production 
+		- strategy > runOnce > deploy > steps 
+			- checkout - self 
+			- task: AzureAppServiceManage@0 (swaps)
 
 ## Notes:
 - Focus on speed
