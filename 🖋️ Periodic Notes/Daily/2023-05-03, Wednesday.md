@@ -2,18 +2,19 @@
 - [ ] Office ceiling hole
 
 ## Morning 
-- [ ] Let dogs pee
-- [ ] Drink stimulant and take medication
-- [ ] Feed cats
-- [ ] Feed dogs
-- [ ] Fill water filter
-- [ ] Take dogs out 
+- [x] Let dogs pee
+- [x] Drink stimulant and take medication
+- [x] Feed cats
+- [x] Feed dogs
+- [x] Fill animal waters
+- [x] Fill water filter
+- [x] Take dogs out 
 - [ ] Give dogs dental treats
 - [ ] Shower
-- [ ] Lotion
-- [ ] Deo
+- [x] Lotion
+- [x] Deo
 - [ ] Brush teeth
-- [ ] Plan day
+- [x] Plan day
 
 ## Workout 
 [[05-03-2023, Wednesday]]
@@ -31,7 +32,8 @@
 - [ ] Clean living room
 - [ ] Clean master
 - [ ] Clean Nespresso
-- [ ] Buy tag silencer 
+- [ ] Dog poops
+- [ ] Pick dinner
 
 ## Evening
 - [ ] CanPay spin

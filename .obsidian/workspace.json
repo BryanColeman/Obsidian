@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "💻 Work/Stories/current - 139923 - SpsV2 -  Pipeline setup.md",
+                "file": "🖋️ Periodic Notes/Daily/2023-05-03, Wednesday.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.5
+    "width": 232.5
   },
   "right": {
     "id": "5b682cf4169076f3",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "💻 Work/Stories/current - 139923 - SpsV2 -  Pipeline setup.md",
+                "file": "🖋️ Periodic Notes/Daily/2023-05-03, Wednesday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "💻 Work/Stories/current - 139923 - SpsV2 -  Pipeline setup.md",
+                "file": "🖋️ Periodic Notes/Daily/2023-05-03, Wednesday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,13 +124,23 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "b2b375f4d6188530",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "🖋️ Periodic Notes/Daily/2023-05-03, Wednesday.md"
+              }
+            }
           }
         ],
         "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 345.5
+    "width": 322.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -145,16 +155,18 @@
   },
   "active": "2dd4fc81243e0d42",
   "lastOpenFiles": [
+    "🖋️ Periodic Notes/Daily/2023-05-04, Thursday.md",
+    "🖋️ Periodic Notes/Daily/2023-05-05, Friday.md",
     "🖋️ Periodic Notes/Daily/2023-05-03, Wednesday.md",
+    "🖋️ Periodic Notes/Templates/Daily.md",
+    "💻 Work/Stories/current - 139923 - SpsV2 -  Pipeline setup.md",
     "🖋️ Periodic Notes/Daily/2023-05-02, Tuesday.md",
     "🖋️ Periodic Notes/Weekly/2023-W18.md",
     "🖋️ Periodic Notes/Monthly/2023-05, May.md",
     "🖋️ Periodic Notes/Yearly/2023.md",
-    "🖋️ Periodic Notes/Templates/Daily.md",
-    "💻 Work/Stories/current - 139923 - SpsV2 -  Pipeline setup.md",
-    "💪 Physical Health/Exercise Log/2023/W18/05-03-2023, Wednesday.md",
+    "Physical Health/Exercise Log/2023/W18/05-03-2023, Wednesday.md",
     "🐸 Possible Frogs.md",
-    "💪 Physical Health/Exercise Log/2023/W17/04-24-2023, Monday.md",
+    "Physical Health/Exercise Log/2023/W17/04-24-2023, Monday.md",
     "🖋️ Periodic Notes/Templates/Yearly.md",
     "🖋️ Periodic Notes/Templates/Quarterly.md",
     "🖋️ Periodic Notes/Templates/Monthly.md",
@@ -162,22 +174,20 @@
     "🖋️ Periodic Notes/Daily/2023-04-29, Saturday.md",
     "🖋️ Periodic Notes/Daily/2023-04-30, Sunday.md",
     "🖋️ Periodic Notes/Daily/2023-05-01, Monday.md",
-    "💪 Physical Health/Exercise Log/2023/W19/2023-05-10, Wednesday.md",
-    "💪 Physical Health/Exercise Log/2023/W19/2023-05-12, Friday.md",
-    "💪 Physical Health/Exercise Log/2023/W19/2023-05-13, Saturday.md",
-    "💪 Physical Health/Exercise Log/2023/W19/2023-05-09, Tuesday.md",
-    "💪 Physical Health/Exercise Log/2023/W19/2023-05-08, Monday.md",
-    "💪 Physical Health/Exercise Log/2023/W18/05-01-2023, Monday.md",
-    "💪 Physical Health/Exercise Log/2023/W18/05-06-2023, Saturday.md",
-    "💪 Physical Health/Exercise Log/2023/W18/05-05-2023, Friday.md",
-    "💪 Physical Health/Exercise Log/2023/W19",
-    "🖋️ Periodic Notes/Weekly/2023-W19.md",
+    "Physical Health/Exercise Log/2023/W19/2023-05-10, Wednesday.md",
+    "Physical Health/Exercise Log/2023/W19/2023-05-12, Friday.md",
+    "Physical Health/Exercise Log/2023/W19/2023-05-13, Saturday.md",
+    "Physical Health/Exercise Log/2023/W19/2023-05-09, Tuesday.md",
+    "Physical Health/Exercise Log/2023/W19/2023-05-08, Monday.md",
+    "Physical Health/Exercise Log/2023/W18/05-01-2023, Monday.md",
+    "Physical Health/Exercise Log/2023/W18/05-06-2023, Saturday.md",
+    "Physical Health/Exercise Log/2023/W19",
     "Context/spacesLastSync.log",
     "Context",
     "🖋️ Periodic Notes/Yearly",
     "Day Planners",
-    "💪 Physical Health/Exercise Log/2023/W18",
-    "💪 Physical Health/Exercise Log/2023/W17",
+    "Physical Health/Exercise Log/2023/W18",
+    "Physical Health/Exercise Log/2023/W17",
     "🖋️ Periodic Notes/Templates",
     "🖋️ Periodic Notes/Untitled 2/Untitled",
     "🖋️ Periodic Notes/Quarterly",

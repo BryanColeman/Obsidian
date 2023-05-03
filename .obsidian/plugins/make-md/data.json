@@ -35,13 +35,15 @@
   "showRibbon": true,
   "deleteFileOption": "trash",
   "expandedFolders": {
-    "Obsidian": []
+    "Obsidian": [
+      "💪 Physical Health"
+    ]
   },
   "expandedSpaces": [
     "/",
     null,
-    "Obsidian",
-    null
+    null,
+    "Obsidian"
   ],
   "openFolders": [],
   "fileIcons": [],
@@ -71,7 +73,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1683081969459,
+  "spacesAutoBackupLast": 1683113254606,
   "spacesUseAlias": false,
   "precreateVaultSpace": true
 }
