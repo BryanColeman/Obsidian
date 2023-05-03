@@ -21,6 +21,7 @@
 
 ## Work
 [[current - 139923 - SpsV2 -  Pipeline setup]]
+- [ ] Draft message for Adam
 - [ ] 10:30 Stand up
 - [ ] 2:00 - 4:00 Planning 
 
