@@ -42,7 +42,9 @@
       "🖋️ Periodic Notes/Daily",
       "🖋️ Periodic Notes/Templates",
       "💪 Physical Health",
-      "💪 Physical Health/Exercise Log/2023/W19"
+      "💪 Physical Health/Exercise Log/2023/W19",
+      "🖋️ Periodic Notes",
+      "🖋️ Periodic Notes/Yearly"
     ]
   },
   "expandedSpaces": [
@@ -79,7 +81,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1683080916964,
+  "spacesAutoBackupLast": 1683081969459,
   "spacesUseAlias": false,
   "precreateVaultSpace": true
 }

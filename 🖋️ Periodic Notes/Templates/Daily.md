@@ -15,6 +15,8 @@
 - [ ] Brush teeth
 - [ ] Plan day
 
+## Workout
+
 ## Whenever
 - [ ] Bird seeds
 

@@ -15,6 +15,9 @@
 - [ ] Brush teeth
 - [ ] Plan day
 
+## Workout 
+[[05-03-2023, Wednesday]]
+
 ## Work
 [[current - 139923 - SpsV2 -  Pipeline setup]]
 - [ ] 10:30 Stand up
@@ -38,8 +41,7 @@
 - [ ] Deo 
 - [ ] Brush Teeth 
 
-## Dinner 
-- [ ] 
+## Dinner
 
 ## Notes 
 
