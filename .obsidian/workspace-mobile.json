@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🖋️ Periodic Notes/Daily/2023-05-03, Wednesday.md",
-                "mode": "source",
+                "file": "🖋️ Periodic Notes/Daily/2023-05-04, Thursday.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -92,7 +92,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "🖋️ Periodic Notes/Daily/2023-05-03, Wednesday.md",
+            "file": "🖋️ Periodic Notes/Daily/2023-05-04, Thursday.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "🖋️ Periodic Notes/Daily/2023-05-03, Wednesday.md",
+            "file": "🖋️ Periodic Notes/Daily/2023-05-04, Thursday.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -121,7 +121,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "🖋️ Periodic Notes/Daily/2023-05-03, Wednesday.md"
+            "file": "🖋️ Periodic Notes/Daily/2023-05-04, Thursday.md"
           }
         }
       },
@@ -147,12 +147,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c130dfa0fce10e9d",
+  "active": "da9cb685d8eac740",
   "lastOpenFiles": [
+    "🖋️ Periodic Notes/Daily/2023-05-04, Thursday.md",
+    "🖋️ Periodic Notes/Daily/2023-05-02, Tuesday.md",
+    "🖋️ Periodic Notes/Daily/2023-05-03, Wednesday.md",
     "Physical Health/Exercise Log/2023/W19/2023-05-10, Wednesday.md",
     "Physical Health/Exercise Log/2023/W18/05-03-2023, Wednesday.md",
-    "🖋️ Periodic Notes/Daily/2023-05-03, Wednesday.md",
-    "🖋️ Periodic Notes/Daily/2023-05-02, Tuesday.md",
     "💪 Physical Health/Exercise Log/2023/W18/05-03-2023, Wednesday.md",
     "🖋️ Periodic Notes/Weekly/2023-W18.md",
     "🖋️ Periodic Notes/Daily/2023-05-01, Monday.md",
@@ -174,7 +175,6 @@
     "💪 Physical Health/Exercise Log/2023/W17/04-26-2023, Wednesday.md",
     "💪 Physical Health/Exercise Log/2023/W17/04-24-2023, Monday.md",
     "/💪 Physical Health/Exercise Log/2023/W17/04-28-2023, Friday.md",
-    "/💪 Physical Health/Exercise Log/2023/W17/04-25-2023, Tuesday.md",
     "💪 Physical Health/Exercise Log/2023/W18",
     "💪 Physical Health/Exercise Log/2023/W17",
     "/💪 Physical Health/Exercise Log/2023/W18",
