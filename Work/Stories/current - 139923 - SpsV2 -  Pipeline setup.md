@@ -11,7 +11,8 @@
 ## To do
 - Ask for permissions to change the main branch policy.
 	- Remove check for linked work items
-	- 
+- Deploy QA
+- Deploy Staging 
 
 ## Implementation:
 - Use linux agents _this will help with speed_
