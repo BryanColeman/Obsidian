@@ -15,6 +15,15 @@
 
 ## Implementation:
 - Use linux agents _this will help with speed_
+- Remove linked work item check
+- Add branch validations
+- Added all the azure environments
+- Added all the yml files needed
+- Main (Build/Deploy QA/Deploy Staging)
+	- Build
+- Deploy Dev
+- Deploy Dev1-4
+- Deploy Production
 
 ## Questions (5 max unanswered):
 - What are the branch policies we need?

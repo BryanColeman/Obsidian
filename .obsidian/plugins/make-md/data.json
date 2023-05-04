@@ -8,7 +8,7 @@
   "mobileMakeBar": true,
   "inlineStyler": true,
   "makerMode": true,
-  "inlineStylerColors": false,
+  "inlineStylerColors": true,
   "editorFlow": true,
   "internalLinkClickFlow": true,
   "contextEnabled": true,
@@ -37,16 +37,37 @@
   "expandedFolders": {
     "Obsidian": [
       "💪 Physical Health",
-      "Physical Health",
       "Physical Health/Exercise Log",
       "Physical Health/Exercise Log/2023",
       "Physical Health/Exercise Log/2023/W19",
-      "Physical Health/Exercise Log/2023/W18"
+      "💻 Work",
+      "Physical Health",
+      "💻 Work",
+      "Work",
+      "Work",
+      "Work",
+      "Work",
+      "Work",
+      "Work",
+      "Work",
+      "Work",
+      "Work",
+      "Work",
+      "Work",
+      "Work/Stories",
+      "Work",
+      "🖋️ Periodic Notes",
+      "🖋️ Periodic Notes/Daily",
+      "🖋️ Periodic Notes/Templates"
+    ],
+    "💻 Work": [
+      "💻 Work/Stories"
     ]
   },
   "expandedSpaces": [
     "/",
     null,
+    "💻 Work",
     "Obsidian",
     null
   ],
@@ -78,7 +99,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1683120877474,
+  "spacesAutoBackupLast": 1683199453066,
   "spacesUseAlias": false,
   "precreateVaultSpace": true
 }

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🖋️ Periodic Notes/Daily/2023-05-03, Wednesday.md",
+                "file": "🖋️ Periodic Notes/Daily/2023-05-04, Thursday.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🖋️ Periodic Notes/Daily/2023-05-03, Wednesday.md",
+                "file": "🖋️ Periodic Notes/Daily/2023-05-04, Thursday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🖋️ Periodic Notes/Daily/2023-05-03, Wednesday.md",
+                "file": "🖋️ Periodic Notes/Daily/2023-05-04, Thursday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🖋️ Periodic Notes/Daily/2023-05-03, Wednesday.md"
+                "file": "🖋️ Periodic Notes/Daily/2023-05-04, Thursday.md"
               }
             }
           }
@@ -140,7 +140,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.5
+    "width": 322.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,12 +156,24 @@
   },
   "active": "2dd4fc81243e0d42",
   "lastOpenFiles": [
-    "🖋️ Periodic Notes/Daily/2023-05-04, Thursday.md",
     "🖋️ Periodic Notes/Daily/2023-05-05, Friday.md",
+    "🖋️ Periodic Notes/Daily/2023-05-04, Thursday.md",
     "🖋️ Periodic Notes/Daily/2023-05-03, Wednesday.md",
-    "🖋️ Periodic Notes/Templates/Daily.md",
-    "💻 Work/Stories/current - 139923 - SpsV2 -  Pipeline setup.md",
     "🖋️ Periodic Notes/Daily/2023-05-02, Tuesday.md",
+    "IDP.md",
+    "Sober Faction.md",
+    "🖋️ Periodic Notes/Daily/2023-05-01, Monday.md",
+    "🖋️ Periodic Notes/Daily/2023-04-30, Sunday.md",
+    "🖋️ Periodic Notes/Daily/2023-04-29, Saturday.md",
+    "🖋️ Periodic Notes/Templates/Daily.md",
+    "Work/Stories/current - 139923 - SpsV2 -  Pipeline setup.md",
+    "Work/Work.md",
+    "Work/Stories/Stories.md",
+    "🖋️ Periodic Notes/🖋️ Periodic Notes.md",
+    "Work/💻 Work.md",
+    "Context/💻 Work.mdb",
+    "Physical Health/Physical Health.md",
+    "Physical Health/Exercise Log/2023/W19/2023-05-10, Wednesday.md",
     "🖋️ Periodic Notes/Weekly/2023-W18.md",
     "🖋️ Periodic Notes/Monthly/2023-05, May.md",
     "🖋️ Periodic Notes/Yearly/2023.md",
@@ -170,17 +183,6 @@
     "🖋️ Periodic Notes/Templates/Yearly.md",
     "🖋️ Periodic Notes/Templates/Quarterly.md",
     "🖋️ Periodic Notes/Templates/Monthly.md",
-    "🖋️ Periodic Notes/Templates/Weekly.md",
-    "🖋️ Periodic Notes/Daily/2023-04-29, Saturday.md",
-    "🖋️ Periodic Notes/Daily/2023-04-30, Sunday.md",
-    "🖋️ Periodic Notes/Daily/2023-05-01, Monday.md",
-    "Physical Health/Exercise Log/2023/W19/2023-05-10, Wednesday.md",
-    "Physical Health/Exercise Log/2023/W19/2023-05-12, Friday.md",
-    "Physical Health/Exercise Log/2023/W19/2023-05-13, Saturday.md",
-    "Physical Health/Exercise Log/2023/W19/2023-05-09, Tuesday.md",
-    "Physical Health/Exercise Log/2023/W19/2023-05-08, Monday.md",
-    "Physical Health/Exercise Log/2023/W18/05-01-2023, Monday.md",
-    "Physical Health/Exercise Log/2023/W18/05-06-2023, Saturday.md",
     "Physical Health/Exercise Log/2023/W19",
     "Context/spacesLastSync.log",
     "Context",
@@ -190,7 +192,6 @@
     "Physical Health/Exercise Log/2023/W17",
     "🖋️ Periodic Notes/Templates",
     "🖋️ Periodic Notes/Untitled 2/Untitled",
-    "🖋️ Periodic Notes/Quarterly",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

@@ -23,7 +23,6 @@
 
 ## Evening
 - [ ] CanPay spin
-- [ ] Tell Holly you didn't drink today
 - [ ] Plan tomorrow 
 - [ ] Shower 
 - [ ] Lotion 

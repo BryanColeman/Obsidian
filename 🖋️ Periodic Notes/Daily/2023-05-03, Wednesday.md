@@ -1,5 +1,5 @@
 ## Frog
-- [ ] Office ceiling hole
+- [x] Office ceiling hole
 
 ## Morning 
 - [x] Let dogs pee
@@ -10,7 +10,7 @@
 - [x] Fill water filter
 - [x] Take dogs out 
 - [x] Give dogs dental treats
-- [ ] Shower
+- [x] Shower
 - [x] Lotion
 - [x] Deo
 - [x] Brush teeth
@@ -21,9 +21,8 @@
 
 ## Work
 [[current - 139923 - SpsV2 -  Pipeline setup]]
-- [ ] Draft message for Adam
-- [ ] 10:30 Stand up
-- [ ] 2:00 - 4:00 Planning 
+- [x] Draft message for Adam
+- [x] 2:00 - 4:00 Planning 
 
 ## Whenever
 - [ ] Shave
@@ -34,12 +33,12 @@
 - [ ] Clean master
 - [ ] Clean Nespresso
 - [ ] Dog poops
-- [ ] Pick dinner
+- [x] Pick dinner
 
 ## Evening
-- [ ] CanPay spin
+- [x] CanPay spin
 - [ ] Plan tomorrow 
-- [ ] Shower 
+- [x] Shower 
 - [ ] Lotion 
 - [ ] Deo 
 - [ ] Brush Teeth 
@@ -49,7 +48,7 @@
 - https://marleyspoon.com/menu/88322-cheesy-baked-pinto-beans-with-cilantro-jalapeno-rice
 - https://www.kitchenstories.com/en/recipes/easy-cheesy-tortellini-with-red-pepper-pesto
 - https://www.kitchenstories.com/en/recipes/veggie-burrito-bowl
-- https://marleyspoon.com/menu/128854-easy-prep-mediterranean-sheet-pan-chicken-with-crispy-chickpeas
+<mark style='background:#4b6584'>- https://marleyspoon.com/menu/128854-easy-prep-mediterranean-sheet-pan-chicken-with-crispy-chickpeas</mark>
 
 ## Notes 
 - Meal prep
