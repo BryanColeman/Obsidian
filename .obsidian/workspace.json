@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Work/Stories/current - 139923 - SpsV2 -  Pipeline setup.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/Stories/current - 139923 - SpsV2 -  Pipeline setup.md",
+                "file": "🖋️ Periodic Notes/Daily/2023-05-04, Thursday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/Stories/current - 139923 - SpsV2 -  Pipeline setup.md",
+                "file": "🖋️ Periodic Notes/Daily/2023-05-04, Thursday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/Stories/current - 139923 - SpsV2 -  Pipeline setup.md"
+                "file": "🖋️ Periodic Notes/Daily/2023-05-04, Thursday.md"
               }
             }
           }
@@ -166,10 +167,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "2dd4fc81243e0d42",
+  "active": "d06b53eeb881159c",
   "lastOpenFiles": [
-    "🖋️ Periodic Notes/Daily/2023-05-04, Thursday.md",
     "Work/Stories/current - 139923 - SpsV2 -  Pipeline setup.md",
+    "🖋️ Periodic Notes/Daily/2023-05-04, Thursday.md",
     "🖋️ Periodic Notes/Daily/2023-05-05, Friday.md",
     "🖋️ Periodic Notes/Daily/2023-05-03, Wednesday.md",
     "🖋️ Periodic Notes/Daily/2023-05-02, Tuesday.md",
