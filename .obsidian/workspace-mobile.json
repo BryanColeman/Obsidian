@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🖋️ Periodic Notes/Daily/2023-05-03, Wednesday.md",
+                "file": "🖋️ Periodic Notes/Daily/2023-05-07, Sunday.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,6 +78,14 @@
           "type": "mk-file-view",
           "state": {}
         }
+      },
+      {
+        "id": "cd49cf1ed19a39c0",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
       }
     ],
     "currentTab": 4
@@ -92,9 +100,9 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "🖋️ Periodic Notes/Daily/2023-05-03, Wednesday.md",
-            "collapseAll": false,
-            "extraContext": false,
+            "file": "🖋️ Periodic Notes/Daily/2023-05-07, Sunday.md",
+            "collapseAll": true,
+            "extraContext": true,
             "sortOrder": "alphabetical",
             "showSearch": false,
             "searchQuery": "",
@@ -109,7 +117,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "🖋️ Periodic Notes/Daily/2023-05-03, Wednesday.md",
+            "file": "🖋️ Periodic Notes/Daily/2023-05-07, Sunday.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -121,7 +129,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "🖋️ Periodic Notes/Daily/2023-05-03, Wednesday.md"
+            "file": "🖋️ Periodic Notes/Daily/2023-05-07, Sunday.md"
           }
         }
       },
@@ -134,7 +142,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -149,10 +157,16 @@
   },
   "active": "c130dfa0fce10e9d",
   "lastOpenFiles": [
+    "🖋️ Periodic Notes/Daily/2023-05-06, Saturday.md",
+    "🖋️ Periodic Notes/Daily/2023-05-07, Sunday.md",
+    "Physical Health/Exercise Log/2023/W18/05-06-2023, Saturday.md",
+    "Physical Health/Exercise Log/2023/W18/05-05-2023, Friday.md",
+    "🖋️ Periodic Notes/Daily/2023-05-05, Friday.md",
+    "🖋️ Periodic Notes/Daily/2023-05-04, Thursday.md",
+    "🖋️ Periodic Notes/Daily/2023-05-02, Tuesday.md",
+    "🖋️ Periodic Notes/Daily/2023-05-03, Wednesday.md",
     "Physical Health/Exercise Log/2023/W19/2023-05-10, Wednesday.md",
     "Physical Health/Exercise Log/2023/W18/05-03-2023, Wednesday.md",
-    "🖋️ Periodic Notes/Daily/2023-05-03, Wednesday.md",
-    "🖋️ Periodic Notes/Daily/2023-05-02, Tuesday.md",
     "💪 Physical Health/Exercise Log/2023/W18/05-03-2023, Wednesday.md",
     "🖋️ Periodic Notes/Weekly/2023-W18.md",
     "🖋️ Periodic Notes/Daily/2023-05-01, Monday.md",
@@ -169,12 +183,6 @@
     "🖋️ Periodic Notes/Templates/Quarterly.md",
     "🖋️ Periodic Notes/Templates/Monthly.md",
     "🖋️ Periodic Notes/Quarterly/2023-Q2.md",
-    "💪 Physical Health/Exercise Log/2023/W18/05-06-2023, Saturday.md",
-    "💪 Physical Health/Exercise Log/2023/W18/05-05-2023, Friday.md",
-    "💪 Physical Health/Exercise Log/2023/W17/04-26-2023, Wednesday.md",
-    "💪 Physical Health/Exercise Log/2023/W17/04-24-2023, Monday.md",
-    "/💪 Physical Health/Exercise Log/2023/W17/04-28-2023, Friday.md",
-    "/💪 Physical Health/Exercise Log/2023/W17/04-25-2023, Tuesday.md",
     "💪 Physical Health/Exercise Log/2023/W18",
     "💪 Physical Health/Exercise Log/2023/W17",
     "/💪 Physical Health/Exercise Log/2023/W18",
