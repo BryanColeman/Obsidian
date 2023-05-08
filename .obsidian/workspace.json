@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/Stories/current - 139923 - SpsV2 -  Pipeline setup.md",
+                "file": "Periodic Notes/Daily/2023-05-08, Monday.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/Stories/current - 139923 - SpsV2 -  Pipeline setup.md",
+                "file": "Periodic Notes/Daily/2023-05-08, Monday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/Stories/current - 139923 - SpsV2 -  Pipeline setup.md",
+                "file": "Periodic Notes/Daily/2023-05-08, Monday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/Stories/current - 139923 - SpsV2 -  Pipeline setup.md"
+                "file": "Periodic Notes/Daily/2023-05-08, Monday.md"
               }
             }
           }
@@ -153,9 +153,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "2dd4fc81243e0d42",
+  "active": "fa2f1a4edd8a7026",
   "lastOpenFiles": [
+    "SMART.md",
     "Periodic Notes/Daily/2023-05-08, Monday.md",
+    "Work/Stories/current - 139923 - SpsV2 -  Pipeline setup.md",
     "Holly.md",
     "Periodic Notes/Weekly/2023-W19.md",
     "Periodic Notes/Daily/2023-05-04, Thursday.md",
@@ -169,7 +171,6 @@
     "Periodic Notes/Daily/2023-05-07, Sunday.md",
     "🖋️ Periodic Notes/Daily",
     "🖋️ Periodic Notes",
-    "Work/Stories/current - 139923 - SpsV2 -  Pipeline setup.md",
     "conflict-files-obsidian-git.md",
     "Periodic Notes/Daily/2023-05-06, Saturday.md",
     "Periodic Notes/Daily/2023-05-02, Tuesday.md",
@@ -183,7 +184,6 @@
     "Work/💻 Work.md",
     "Context/💻 Work.mdb",
     "Physical Health/Physical Health.md",
-    "Physical Health/Exercise Log/2023/W19/2023-05-10, Wednesday.md",
     "Physical Health/Exercise Log/2023/W19",
     "Context/spacesLastSync.log",
     "Context",
