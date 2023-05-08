@@ -1,6 +1,6 @@
 {
   "defaultInitialization": false,
-  "filePreviewOnHover": false,
+  "filePreviewOnHover": true,
   "flowMenuEnabled": true,
   "markSans": false,
   "blinkEnabled": true,
@@ -17,18 +17,18 @@
   "autoOpenFileContext": false,
   "activeView": "root",
   "hideFrontmatter": true,
-  "activeSpace": "",
+  "activeSpace": "Obsidian",
   "spacesCompactMode": false,
   "defaultDateFormat": "MMM dd yyyy",
   "spacesEnabled": true,
-  "spacesPerformance": false,
+  "spacesPerformance": true,
   "collapsedTags": [],
   "enableFolderNote": false,
   "folderIndentationLines": true,
-  "revealActiveFile": false,
+  "revealActiveFile": true,
   "spacesStickers": true,
   "spaceRowHeight": 29,
-  "spacesDisablePatch": false,
+  "spacesDisablePatch": true,
   "folderNoteInsideFolder": false,
   "folderNoteDefaultView": false,
   "sidebarTabs": true,
@@ -36,41 +36,22 @@
   "deleteFileOption": "trash",
   "expandedFolders": {
     "Obsidian": [
-      "💪 Physical Health",
-      "Physical Health/Exercise Log",
-      "Physical Health/Exercise Log/2023",
-      "Physical Health/Exercise Log/2023/W19",
-      "💻 Work",
-      "Physical Health",
-      "💻 Work",
-      "Work",
-      "Work",
-      "Work",
-      "Work",
-      "Work",
-      "Work",
-      "Work",
-      "Work",
-      "Work",
-      "Work",
-      "Work",
-      "Work/Stories",
-      "Work",
       "🖋️ Periodic Notes",
-      "🖋️ Periodic Notes/Daily",
-      "🖋️ Periodic Notes/Templates",
-      "Physical Health/Exercise Log/2023/W18"
+      "Periodic Notes/Daily"
     ],
     "💻 Work": [
       "💻 Work/Stories"
+    ],
+    "Work": [
+      "Work/Stories"
     ]
   },
   "expandedSpaces": [
     "/",
     null,
     "💻 Work",
-    "Obsidian",
-    null
+    null,
+    "Work"
   ],
   "openFolders": [],
   "fileIcons": [],
@@ -90,7 +71,7 @@
   "hiddenExtensions": [
     "mdb"
   ],
-  "inlineBacklinks": false,
+  "inlineBacklinks": true,
   "inlineContext": true,
   "inlineBacklinksExpanded": false,
   "inlineContextExpanded": true,
@@ -101,7 +82,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1683539740450,
+  "spacesAutoBackupLast": 1683553319394,
   "spacesUseAlias": false,
   "precreateVaultSpace": true
 }

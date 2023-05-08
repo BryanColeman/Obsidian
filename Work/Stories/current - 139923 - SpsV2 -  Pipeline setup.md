@@ -12,7 +12,6 @@
 - Ask for permissions to change the main branch policy.
 	- Remove check for linked work items
 - Deploy QA
-- Deploy Staging 
 
 ## Implementation:
 - Use linux agents _this will help with speed_
@@ -20,11 +19,10 @@
 - Add branch validations
 - Added all the azure environments
 - Added all the yml files needed
-- Main (Build/Deploy QA/Deploy Staging)
+- Main (Build/Deploy QA)
 	- Build
 - Deploy Dev
 - Deploy Dev1-4
-- Deploy Production
 
 ## Questions (5 max unanswered):
 - What are the branch policies we need?
