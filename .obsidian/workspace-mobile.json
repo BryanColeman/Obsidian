@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🐸 Frog.md",
+                "file": "Periodic Notes/Daily/2023-05-08, Monday.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "01d73634fc7ded40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Periodic Notes/Daily/2023-05-09, Tuesday.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -100,7 +113,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "🐸 Frog.md",
+            "file": "Periodic Notes/Daily/2023-05-09, Tuesday.md",
             "collapseAll": true,
             "extraContext": true,
             "sortOrder": "alphabetical",
@@ -117,7 +130,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "🐸 Frog.md",
+            "file": "Periodic Notes/Daily/2023-05-09, Tuesday.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -129,7 +142,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "🐸 Frog.md"
+            "file": "Periodic Notes/Daily/2023-05-09, Tuesday.md"
           }
         }
       },
@@ -155,10 +168,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e29afaca5ba4ea2a",
+  "active": "01d73634fc7ded40",
   "lastOpenFiles": [
-    "Periodic Notes/Daily/2023-05-08, Monday.md",
+    "🐸 Frog.md",
     "Periodic Notes/Daily/2023-05-09, Tuesday.md",
+    "conflict-files-obsidian-git.md",
+    "Periodic Notes/Daily/2023-05-08, Monday.md",
     "Physical Health/Exercise Log/2023/W19/2023-05-09, Tuesday.md",
     "Physical Health/Exercise Log/2023/W19/2023-05-10, Wednesday.md",
     "time blocking.md",
@@ -183,8 +198,6 @@
     "Periodic Notes/Weekly/2023-W18.md",
     "Periodic Notes/Daily/2023-05-05, Friday.md",
     "Periodic Notes/Daily/2023-05-02, Tuesday.md",
-    "Periodic Notes/Daily/2023-05-03, Wednesday.md",
-    "Periodic Notes/Daily/2023-05-01, Monday.md",
     "Periodic Notes/Yearly",
     "Periodic Notes/Weekly",
     "Periodic Notes/Templates",
