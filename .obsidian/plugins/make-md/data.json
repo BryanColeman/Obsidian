@@ -1,6 +1,6 @@
 {
   "defaultInitialization": false,
-  "filePreviewOnHover": true,
+  "filePreviewOnHover": false,
   "flowMenuEnabled": true,
   "markSans": false,
   "blinkEnabled": true,
@@ -17,18 +17,18 @@
   "autoOpenFileContext": false,
   "activeView": "root",
   "hideFrontmatter": true,
-  "activeSpace": "Obsidian",
+  "activeSpace": "",
   "spacesCompactMode": false,
   "defaultDateFormat": "MMM dd yyyy",
   "spacesEnabled": true,
-  "spacesPerformance": true,
+  "spacesPerformance": false,
   "collapsedTags": [],
   "enableFolderNote": false,
   "folderIndentationLines": true,
-  "revealActiveFile": true,
+  "revealActiveFile": false,
   "spacesStickers": true,
   "spaceRowHeight": 29,
-  "spacesDisablePatch": true,
+  "spacesDisablePatch": false,
   "folderNoteInsideFolder": false,
   "folderNoteDefaultView": false,
   "sidebarTabs": true,
@@ -36,23 +36,28 @@
   "deleteFileOption": "trash",
   "expandedFolders": {
     "Obsidian": [
+      "💪 Physical Health",
+      "Physical Health/Exercise Log",
+      "Physical Health/Exercise Log/2023",
+      "Physical Health/Exercise Log/2023/W19",
+      "💻 Work",
+      "💻 Work",
+      "Work/Stories",
       "🖋️ Periodic Notes",
-      "Periodic Notes/Daily",
-      "Periodic Notes"
+      "🖋️ Periodic Notes/Daily",
+      "🖋️ Periodic Notes/Templates",
+      "Physical Health/Exercise Log/2023/W18"
     ],
     "💻 Work": [
       "💻 Work/Stories"
-    ],
-    "Work": [
-      "Work/Stories"
     ]
   },
   "expandedSpaces": [
     "/",
     null,
     "💻 Work",
-    null,
-    "Obsidian"
+    "Obsidian",
+    null
   ],
   "openFolders": [],
   "fileIcons": [],
@@ -72,7 +77,7 @@
   "hiddenExtensions": [
     "mdb"
   ],
-  "inlineBacklinks": true,
+  "inlineBacklinks": false,
   "inlineContext": true,
   "inlineBacklinksExpanded": false,
   "inlineContextExpanded": true,
@@ -83,7 +88,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1683587115522,
+  "spacesAutoBackupLast": 1683597725752,
   "spacesUseAlias": false,
   "precreateVaultSpace": true
 }
