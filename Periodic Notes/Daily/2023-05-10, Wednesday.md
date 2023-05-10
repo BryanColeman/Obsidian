@@ -2,17 +2,17 @@
 - [ ] Postpone mortgage payment
 
 ## Morning 
-- [ ] Let dogs pee
-- [ ] Drink stimulant and take medication
-- [ ] Feed cats
-- [ ] Feed dogs
-- [ ] Fill animal waters
-- [ ] Fill water filter
-- [ ] Take dogs out 
+- [x] Let dogs pee
+- [x] Drink stimulant and take medication
+- [x] Feed cats
+- [x] Feed dogs
+- [x] Fill animal waters
+- [x] Fill water filter
+- [x] Take dogs out 
 - [ ] Give dogs dental treats
 - [ ] Shower
-- [ ] Lotion
-- [ ] Deo
+- [x] Lotion
+- [x] Deo
 - [ ] Brush teeth
 - [ ] Plan day
 
@@ -41,5 +41,7 @@
 ## Dinner
 
 ## Notes 
+
+- [[Bird Watching]]
 
 ##### Continuous 
