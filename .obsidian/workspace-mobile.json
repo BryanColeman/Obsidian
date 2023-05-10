@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Periodic Notes/Daily/2023-05-09, Tuesday.md",
-                "mode": "preview",
+                "file": "Bird Watching.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -113,7 +113,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Periodic Notes/Daily/2023-05-09, Tuesday.md",
+            "file": "Bird Watching.md",
             "collapseAll": true,
             "extraContext": true,
             "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Periodic Notes/Daily/2023-05-09, Tuesday.md",
+            "file": "Bird Watching.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -142,7 +142,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Periodic Notes/Daily/2023-05-09, Tuesday.md"
+            "file": "Bird Watching.md"
           }
         }
       },
@@ -170,13 +170,16 @@
   },
   "active": "01d73634fc7ded40",
   "lastOpenFiles": [
+    "Periodic Notes/Daily/2023-05-10, Wednesday.md",
+    "Bird Watching.md",
+    "Physical Health/Exercise Log/2023/W19/2023-05-10, Wednesday.md",
+    "conflict-files-obsidian-git.md",
+    "🐸 Possible Frogs.md",
+    "Periodic Notes/Daily/2023-05-09, Tuesday.md",
     "Physical Health/Exercise Log/2023/W19/2023-05-09, Tuesday.md",
     "Holly.md",
-    "Periodic Notes/Daily/2023-05-09, Tuesday.md",
     "🐸 Frog.md",
-    "conflict-files-obsidian-git.md",
     "Periodic Notes/Daily/2023-05-08, Monday.md",
-    "Physical Health/Exercise Log/2023/W19/2023-05-10, Wednesday.md",
     "time blocking.md",
     "pomodoro.md",
     "task batch.md",
@@ -195,9 +198,6 @@
     "Physical Health/Exercise Log/2023/W19/2023-05-08, Monday.md",
     "Work/Stories/current - 139923 - SpsV2 -  Pipeline setup.md",
     ".md",
-    "Periodic Notes/Weekly/2023-W18.md",
-    "Periodic Notes/Daily/2023-05-05, Friday.md",
-    "Periodic Notes/Daily/2023-05-02, Tuesday.md",
     "Periodic Notes/Yearly",
     "Periodic Notes/Weekly",
     "Periodic Notes/Templates",

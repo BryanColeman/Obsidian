@@ -16,7 +16,7 @@ _3 rounds:_
 • 7 reps at 70% of 1RM 55#
 • 5 reps at 80% of 1RM 65#
 • 3 reps at 90% of 1RM 70#
-• 1 rep at 100%+ of 1RM
+• 1 rep at 100%+ of 1RM 85# fail
 
 _5 sets of Snatch Complex:_
 • 1 [Power Snatch](https://www.youtube.com/watch?v=rhF0cbRjxRo)  
@@ -25,12 +25,12 @@ _5 sets of Snatch Complex:_
 
 _Recommended weight: 75-80-80-85-85% of 1RM snatch._
 
-60/65/65/65/65
+65/65/65/65/65
 
 [Clean & Jerk](https://www.youtube.com/watch?v=yFSBGIPMa9A) 95#
 • 7 reps at 70% of 1RM 65#
 • 5 reps at 80% of 1RM 75#
-• 3 reps at 90% of 1RM 85#
+• 3 reps at 90% of 1RM 85# gotta stop here
 • 1 rep at 100% of 1RM 
 
 _5 sets of Clean Complex:_  
