@@ -1,5 +1,5 @@
 ## Frog
-- [ ] Postpone mortgage payment
+- [x] Postpone mortgage payment
 
 ## Morning 
 - [x] Let dogs pee
@@ -9,12 +9,12 @@
 - [x] Fill animal waters
 - [x] Fill water filter
 - [x] Take dogs out 
-- [ ] Give dogs dental treats
-- [ ] Shower
+- [x] Give dogs dental treats
+- [x] Shower
 - [x] Lotion
 - [x] Deo
-- [ ] Brush teeth
-- [ ] Plan day
+- [x] Brush teeth
+- [x] Plan day
 
 ## Work
 [[current - 139923 - SpsV2 -  Pipeline setup]]
@@ -31,7 +31,7 @@
 - [ ] Clean nespresso
 
 ## Evening
-- [ ] CanPay spin
+- [x] CanPay spin
 - [ ] Plan tomorrow 
 - [ ] Shower 
 - [ ] Lotion 

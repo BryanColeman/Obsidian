@@ -8,10 +8,7 @@
 
 *build pipeline is required and dev/deploy pipelines are optional in PR
 
-## To do
-- Ask for permissions to change the main branch policy.
-	- Remove check for linked work items
-- Deploy QA
+---
 
 ## Implementation:
 - Use linux agents _this will help with speed_
