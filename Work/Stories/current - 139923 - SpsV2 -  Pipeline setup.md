@@ -23,6 +23,8 @@
 	- Build
 - Deploy Dev
 - Deploy Dev1-4
+- Create spsv2 azure functions
+- Updated app settings
 
 ## Questions (5 max unanswered):
 - What are the branch policies we need?

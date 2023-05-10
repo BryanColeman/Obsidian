@@ -37,8 +37,7 @@
   "expandedFolders": {
     "Obsidian": [
       "🖋️ Periodic Notes",
-      "Periodic Notes/Daily",
-      "Periodic Notes"
+      "Periodic Notes/Daily"
     ],
     "💻 Work": [
       "💻 Work/Stories"
@@ -83,7 +82,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1683633208181,
+  "spacesAutoBackupLast": 1683681090992,
   "spacesUseAlias": false,
   "precreateVaultSpace": true
 }

@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Periodic Notes/Daily/2023-05-08, Monday.md",
+                "file": "Work/Stories/current - 139923 - SpsV2 -  Pipeline setup.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "8c916cb34143eb89",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.2.8"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Periodic Notes/Daily/2023-05-08, Monday.md",
+                "file": "Work/Stories/current - 139923 - SpsV2 -  Pipeline setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Periodic Notes/Daily/2023-05-08, Monday.md",
+                "file": "Work/Stories/current - 139923 - SpsV2 -  Pipeline setup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Periodic Notes/Daily/2023-05-08, Monday.md"
+                "file": "Work/Stories/current - 139923 - SpsV2 -  Pipeline setup.md"
               }
             }
           }
@@ -164,15 +153,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "8c916cb34143eb89",
+  "active": "2dd4fc81243e0d42",
   "lastOpenFiles": [
+    "Periodic Notes/Daily/2023-05-09, Tuesday.md",
+    "Periodic Notes/Daily/2023-05-08, Monday.md",
     "🐸 Frog.md",
     "time blocking.md",
     "task batch.md",
     "pomodoro.md",
-    "Periodic Notes/Daily/2023-05-09, Tuesday.md",
     "🐸 Possible Frogs.md",
-    "Periodic Notes/Daily/2023-05-08, Monday.md",
     "Unconditional Life-Acceptance.md",
     "Unconditional Other-Acceptance.md",
     "Unconditional Self-Acceptance.md",
