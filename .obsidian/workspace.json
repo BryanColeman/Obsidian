@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8c916cb34143eb89",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.8"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -153,7 +164,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "2dd4fc81243e0d42",
+  "active": "8c916cb34143eb89",
   "lastOpenFiles": [
     "🐸 Frog.md",
     "time blocking.md",
