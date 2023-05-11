@@ -20,7 +20,7 @@
 [[05-03-2023, Wednesday]]
 
 ## Work
-[[current - 139923 - SpsV2 -  Pipeline setup]]
+[[139923 - SpsV2 -  Pipeline setup]]
 - [x] Draft message for Adam
 - [x] 2:00 - 4:00 Planning 
 

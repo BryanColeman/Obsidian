@@ -17,7 +17,7 @@
 - [x] Plan day
 
 ## Work
-[[current - 139923 - SpsV2 -  Pipeline setup]]
+[[139923 - SpsV2 -  Pipeline setup]]
 3:30 Philip 1-1
 
 ## Workout
