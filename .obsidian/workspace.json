@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/Stories/Current - 145443 - Backend Changes - One Item to Many Meetings.md",
-                "mode": "source",
+                "file": "Periodic Notes/Daily/2023-05-11, Thursday.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/Stories/Current - 145443 - Backend Changes - One Item to Many Meetings.md",
+                "file": "Periodic Notes/Daily/2023-05-11, Thursday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/Stories/Current - 145443 - Backend Changes - One Item to Many Meetings.md",
+                "file": "Periodic Notes/Daily/2023-05-11, Thursday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,12 +139,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/Stories/Current - 145443 - Backend Changes - One Item to Many Meetings.md"
+                "file": "Periodic Notes/Daily/2023-05-11, Thursday.md"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -164,9 +163,9 @@
   },
   "active": "4145d0afa3df8491",
   "lastOpenFiles": [
-    "Work/Stories/139923 - SpsV2 -  Pipeline setup.md",
-    "Work/Stories/Current - 145443 - Backend Changes - One Item to Many Meetings.md",
+    "Work/Stories/145443 - Backend Changes - One Item to Many Meetings.md",
     "Periodic Notes/Daily/2023-05-11, Thursday.md",
+    "Work/Stories/139923 - SpsV2 -  Pipeline setup.md",
     "Periodic Notes/Daily/2023-05-10, Wednesday.md",
     "Physical Health/Exercise Log/2023/2023.md",
     "Goals.md",
