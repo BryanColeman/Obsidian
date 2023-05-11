@@ -32,7 +32,7 @@
               "type": "markdown",
               "state": {
                 "file": "Periodic Notes/Daily/2023-05-11, Thursday.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -176,8 +176,8 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
-      "periodic-notes:Open today": false,
-      "file-tree-alternative:File Tree Alternative Plugin": false
+      "file-tree-alternative:File Tree Alternative Plugin": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "4145d0afa3df8491",
