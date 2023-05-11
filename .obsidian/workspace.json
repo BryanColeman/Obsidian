@@ -14,7 +14,25 @@
               "type": "markdown",
               "state": {
                 "file": "Periodic Notes/Daily/2023-05-10, Wednesday.md",
-                "mode": "preview",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "f234f271c8209bf6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4145d0afa3df8491",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Periodic Notes/Daily/2023-05-11, Thursday.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -72,13 +90,21 @@
               "type": "mk-file-view",
               "state": {}
             }
+          },
+          {
+            "id": "885152c7758ccb94",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 232.5
+    "width": 252.5
   },
   "right": {
     "id": "5b682cf4169076f3",
@@ -94,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Periodic Notes/Daily/2023-05-10, Wednesday.md",
+                "file": "Periodic Notes/Daily/2023-05-11, Thursday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Periodic Notes/Daily/2023-05-10, Wednesday.md",
+                "file": "Periodic Notes/Daily/2023-05-11, Thursday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Periodic Notes/Daily/2023-05-10, Wednesday.md"
+                "file": "Periodic Notes/Daily/2023-05-11, Thursday.md"
               }
             }
           }
@@ -150,14 +176,17 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "2dd4fc81243e0d42",
+  "active": "4145d0afa3df8491",
   "lastOpenFiles": [
+    "Periodic Notes/Daily/2023-05-10, Wednesday.md",
+    "Periodic Notes/Daily/2023-05-11, Thursday.md",
+    "Physical Health/Exercise Log/2023/2023.md",
     "Goals.md",
     "Work/Stories/current - 139923 - SpsV2 -  Pipeline setup.md",
-    "Periodic Notes/Daily/2023-05-10, Wednesday.md",
     "Bird Watching.md",
     "Periodic Notes/Daily/2023-05-09, Tuesday.md",
     "Periodic Notes/Daily/2023-05-08, Monday.md",
@@ -179,8 +208,6 @@
     "Periodic Notes/Daily/2023-05-01, Monday.md",
     "Untitled.md",
     "Physical Health/Exercise Log/2023/W19/2023-05-08, Monday.md",
-    "🖋️ Periodic Notes/Daily/2023-05-07, Sunday.md",
-    "Periodic Notes/Daily/2023-05-07, Sunday.md",
     "🖋️ Periodic Notes/Daily",
     "🖋️ Periodic Notes",
     "Context/💻 Work.mdb",
