@@ -18,6 +18,7 @@
 
 ## Work
 [[current - 139923 - SpsV2 -  Pipeline setup]]
+3:30 Philip 1-1
 
 ## Workout
 [[Physical Health/Exercise Log/2023/W19/2023-05-10, Wednesday|2023-05-10, Wednesday]]
@@ -25,13 +26,13 @@
 ## Whenever
 - [ ] Bird seeds
 - [ ] Put out bulk items
-- [ ] Shave
-- [ ] Nose hairs
+- [x] Shave
+- [x] Nose hairs
 - [ ] Rat laundry
 - [ ] Clean nespresso
 
 ## Evening
-- [x] CanPay spin
+- [ ] CanPay spin
 - [ ] Plan tomorrow 
 - [ ] Shower 
 - [ ] Lotion 
@@ -43,5 +44,6 @@
 ## Notes 
 
 - [[Bird Watching]]
+- [[Goals]]
 
 ##### Continuous 

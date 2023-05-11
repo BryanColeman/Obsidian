@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bird Watching.md",
-                "mode": "source",
+                "file": "Periodic Notes/Daily/2023-05-10, Wednesday.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -47,7 +47,7 @@
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "alphabeticalReverse"
+            "sortOrder": "alphabetical"
           }
         }
       },
@@ -67,14 +67,6 @@
         }
       },
       {
-        "id": "637233b7b98b2249",
-        "type": "leaf",
-        "state": {
-          "type": "starred",
-          "state": {}
-        }
-      },
-      {
         "id": "4192ea9c3dc7f8d6",
         "type": "leaf",
         "state": {
@@ -85,23 +77,23 @@
         }
       },
       {
-        "id": "da9cb685d8eac740",
-        "type": "leaf",
-        "state": {
-          "type": "mk-file-view",
-          "state": {}
-        }
-      },
-      {
         "id": "cd49cf1ed19a39c0",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
           "state": {}
         }
+      },
+      {
+        "id": "ea3b24233cb6808b",
+        "type": "leaf",
+        "state": {
+          "type": "file-tree-view",
+          "state": {}
+        }
       }
     ],
-    "currentTab": 4
+    "currentTab": 0
   },
   "right": {
     "id": "357e1cc0ca11d137",
@@ -113,7 +105,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Bird Watching.md",
+            "file": "Periodic Notes/Daily/2023-05-10, Wednesday.md",
             "collapseAll": true,
             "extraContext": true,
             "sortOrder": "alphabetical",
@@ -130,7 +122,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Bird Watching.md",
+            "file": "Periodic Notes/Daily/2023-05-10, Wednesday.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -142,7 +134,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Bird Watching.md"
+            "file": "Periodic Notes/Daily/2023-05-10, Wednesday.md"
           }
         }
       },
@@ -165,12 +157,15 @@
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false,
       "periodic-notes:Open today": false
     }
   },
   "active": "01d73634fc7ded40",
   "lastOpenFiles": [
+    "Goals.md",
     "Periodic Notes/Daily/2023-05-10, Wednesday.md",
+    "Periodic Notes/Daily/2023-05-08, Monday.md",
     "Bird Watching.md",
     "Physical Health/Exercise Log/2023/W19/2023-05-10, Wednesday.md",
     "conflict-files-obsidian-git.md",
@@ -179,7 +174,6 @@
     "Physical Health/Exercise Log/2023/W19/2023-05-09, Tuesday.md",
     "Holly.md",
     "🐸 Frog.md",
-    "Periodic Notes/Daily/2023-05-08, Monday.md",
     "time blocking.md",
     "pomodoro.md",
     "task batch.md",
@@ -196,7 +190,6 @@
     "/Periodic Notes/Daily/2023-05-08, Monday.md",
     "/Context/spacesLastSync.log",
     "Physical Health/Exercise Log/2023/W19/2023-05-08, Monday.md",
-    "Work/Stories/current - 139923 - SpsV2 -  Pipeline setup.md",
     ".md",
     "Periodic Notes/Yearly",
     "Periodic Notes/Weekly",

@@ -14,25 +14,12 @@
               "type": "markdown",
               "state": {
                 "file": "Periodic Notes/Daily/2023-05-10, Wednesday.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "896af5bbb7de416a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Work/Stories/current - 139923 - SpsV2 -  Pipeline setup.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/Stories/current - 139923 - SpsV2 -  Pipeline setup.md",
+                "file": "Periodic Notes/Daily/2023-05-10, Wednesday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/Stories/current - 139923 - SpsV2 -  Pipeline setup.md",
+                "file": "Periodic Notes/Daily/2023-05-10, Wednesday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/Stories/current - 139923 - SpsV2 -  Pipeline setup.md"
+                "file": "Periodic Notes/Daily/2023-05-10, Wednesday.md"
               }
             }
           }
@@ -166,11 +153,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "896af5bbb7de416a",
+  "active": "bac79a94c0b9a48d",
   "lastOpenFiles": [
-    "Periodic Notes/Daily/2023-05-10, Wednesday.md",
-    "Bird Watching.md",
     "Periodic Notes/Daily/2023-05-09, Tuesday.md",
+    "Periodic Notes/Daily/2023-05-10, Wednesday.md",
     "Work/Stories/current - 139923 - SpsV2 -  Pipeline setup.md",
     "Periodic Notes/Daily/2023-05-08, Monday.md",
     "🐸 Frog.md",
@@ -196,6 +182,7 @@
     "🖋️ Periodic Notes/Daily",
     "🖋️ Periodic Notes",
     "conflict-files-obsidian-git.md",
+    "Periodic Notes/Daily/2023-05-06, Saturday.md",
     "Context/💻 Work.mdb",
     "Physical Health/Exercise Log/2023/W19",
     "Context/spacesLastSync.log",
