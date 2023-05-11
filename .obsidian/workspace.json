@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "2fa6f23343f1a966",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "2dd4fc81243e0d42",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Periodic Notes/Daily/2023-05-10, Wednesday.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "f234f271c8209bf6",
         "type": "tabs",
         "children": [
