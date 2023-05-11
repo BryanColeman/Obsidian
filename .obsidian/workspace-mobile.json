@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Periodic Notes/Daily/2023-05-10, Wednesday.md",
+                "file": "Periodic Notes/Daily/2023-05-11, Thursday.md",
                 "mode": "preview",
                 "source": false
               }
@@ -93,7 +93,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 4
   },
   "right": {
     "id": "357e1cc0ca11d137",
@@ -105,7 +105,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Periodic Notes/Daily/2023-05-10, Wednesday.md",
+            "file": "Periodic Notes/Daily/2023-05-11, Thursday.md",
             "collapseAll": true,
             "extraContext": true,
             "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Periodic Notes/Daily/2023-05-10, Wednesday.md",
+            "file": "Periodic Notes/Daily/2023-05-11, Thursday.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -134,7 +134,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Periodic Notes/Daily/2023-05-10, Wednesday.md"
+            "file": "Periodic Notes/Daily/2023-05-11, Thursday.md"
           }
         }
       },
@@ -163,8 +163,10 @@
   },
   "active": "01d73634fc7ded40",
   "lastOpenFiles": [
-    "Goals.md",
     "Periodic Notes/Daily/2023-05-10, Wednesday.md",
+    "Periodic Notes/Daily/2023-05-11, Thursday.md",
+    "/Periodic Notes/Daily/2023-05-11, Thursday.md",
+    "Goals.md",
     "Periodic Notes/Daily/2023-05-08, Monday.md",
     "Bird Watching.md",
     "Physical Health/Exercise Log/2023/W19/2023-05-10, Wednesday.md",
@@ -187,9 +189,7 @@
     "/Unconditional Life-Acceptance.md",
     "/SMART.md",
     "/Work/Stories/current - 139923 - SpsV2 -  Pipeline setup.md",
-    "/Periodic Notes/Daily/2023-05-08, Monday.md",
     "/Context/spacesLastSync.log",
-    "Physical Health/Exercise Log/2023/W19/2023-05-08, Monday.md",
     ".md",
     "Periodic Notes/Yearly",
     "Periodic Notes/Weekly",
