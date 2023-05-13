@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Periodic Notes/Daily/2023-05-11, Thursday.md",
-                "mode": "preview",
+                "file": "pomodoro.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -72,17 +72,8 @@
               "type": "mk-file-view",
               "state": {}
             }
-          },
-          {
-            "id": "885152c7758ccb94",
-            "type": "leaf",
-            "state": {
-              "type": "file-tree-view",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -102,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Periodic Notes/Daily/2023-05-11, Thursday.md",
+                "file": "pomodoro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Periodic Notes/Daily/2023-05-11, Thursday.md",
+                "file": "pomodoro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,11 +130,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Periodic Notes/Daily/2023-05-11, Thursday.md"
+                "file": "pomodoro.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -157,14 +149,13 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
-      "file-tree-alternative:File Tree Alternative Plugin": false,
       "periodic-notes:Open today": false
     }
   },
   "active": "4145d0afa3df8491",
   "lastOpenFiles": [
-    "Work/Stories/145443 - Backend Changes - One Item to Many Meetings.md",
     "Periodic Notes/Daily/2023-05-11, Thursday.md",
+    "Work/Stories/145443 - Backend Changes - One Item to Many Meetings.md",
     "Work/Stories/139923 - SpsV2 -  Pipeline setup.md",
     "Periodic Notes/Daily/2023-05-10, Wednesday.md",
     "Physical Health/Exercise Log/2023/2023.md",
