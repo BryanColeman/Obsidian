@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Periodic Notes/Daily/2023-05-13, Saturday.md",
-                "mode": "source",
+                "file": "Physical Health/Exercise Log/2023/W19/2023-05-13, Saturday.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -105,7 +105,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Periodic Notes/Daily/2023-05-13, Saturday.md",
+            "file": "Physical Health/Exercise Log/2023/W19/2023-05-13, Saturday.md",
             "collapseAll": true,
             "extraContext": true,
             "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Periodic Notes/Daily/2023-05-13, Saturday.md",
+            "file": "Physical Health/Exercise Log/2023/W19/2023-05-13, Saturday.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -134,7 +134,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Periodic Notes/Daily/2023-05-13, Saturday.md"
+            "file": "Physical Health/Exercise Log/2023/W19/2023-05-13, Saturday.md"
           }
         }
       },
@@ -162,41 +162,41 @@
   },
   "active": "01d73634fc7ded40",
   "lastOpenFiles": [
-    "Physical Health/Exercise Log/2023/W19/2023-05-13, Saturday.md",
     "Periodic Notes/Daily/2023-05-13, Saturday.md",
+    "Personal/time blocking.md",
+    "Personal/Mental Health/Unconditional Self-Acceptance.md",
+    "🐸 Frog.md",
+    "Untitled.md",
+    "Personal/Mental Health/Sober",
+    "Personal",
+    "Personal/Mental Health",
+    "Physical Health/Exercise Log/2023/W19/2023-05-13, Saturday.md",
     "Periodic Notes/Daily/2023-05-11, Thursday.md",
     "Periodic Notes/Daily/2023-05-10, Wednesday.md",
     "/Periodic Notes/Daily/2023-05-11, Thursday.md",
     "Goals.md",
     "Periodic Notes/Daily/2023-05-08, Monday.md",
-    "Bird Watching.md",
+    "Personal/Bird Watching.md",
     "Physical Health/Exercise Log/2023/W19/2023-05-10, Wednesday.md",
     "conflict-files-obsidian-git.md",
     "🐸 Possible Frogs.md",
     "Periodic Notes/Daily/2023-05-09, Tuesday.md",
     "Physical Health/Exercise Log/2023/W19/2023-05-09, Tuesday.md",
-    "Holly.md",
-    "🐸 Frog.md",
-    "time blocking.md",
-    "pomodoro.md",
-    "task batch.md",
+    "Personal/Mental Health/Holly.md",
+    "Personal/pomodoro.md",
+    "Personal/task batch.md",
     "/🐸 Possible Frogs.md",
-    "Unconditional Self-Acceptance.md",
-    "Unconditional Other-Acceptance.md",
-    "Unconditional Life-Acceptance.md",
-    "SMART.md",
+    "Personal/Mental Health/Unconditional Other-Acceptance.md",
+    "Personal/Mental Health/Unconditional Life-Acceptance.md",
+    "Personal/Mental Health/Sober/SMART.md",
     "/Unconditional Self-Acceptance.md",
     "/Unconditional Other-Acceptance.md",
-    "/Unconditional Life-Acceptance.md",
     "/Context/spacesLastSync.log",
     ".md",
     "Periodic Notes/Yearly",
     "Periodic Notes/Weekly",
     "Periodic Notes/Templates",
     "Periodic Notes/Quarterly",
-    "Periodic Notes/Monthly",
-    "Periodic Notes/Daily",
-    "Periodic Notes",
-    "/Periodic Notes/Yearly"
+    "Periodic Notes/Monthly"
   ]
 }
