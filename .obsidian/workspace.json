@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pomodoro.md",
+                "file": "Sober Faction.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pomodoro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pomodoro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "pomodoro.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -152,8 +148,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "4145d0afa3df8491",
+  "active": "adef80c8f641c043",
   "lastOpenFiles": [
+    "Day Planners/Day Planner-20230512.md",
+    "Day Planners",
+    "Sober Faction.md",
+    "pomodoro.md",
     "Periodic Notes/Daily/2023-05-11, Thursday.md",
     "Work/Stories/145443 - Backend Changes - One Item to Many Meetings.md",
     "Work/Stories/139923 - SpsV2 -  Pipeline setup.md",
@@ -166,7 +166,6 @@
     "🐸 Frog.md",
     "time blocking.md",
     "task batch.md",
-    "pomodoro.md",
     "🐸 Possible Frogs.md",
     "Unconditional Life-Acceptance.md",
     "Unconditional Other-Acceptance.md",
@@ -177,9 +176,6 @@
     "Periodic Notes/Daily/2023-05-04, Thursday.md",
     "Periodic Notes/Daily/2023-05-05, Friday.md",
     "Periodic Notes/Daily/2023-05-03, Wednesday.md",
-    "Periodic Notes/Daily/2023-04-30, Sunday.md",
-    "Periodic Notes/Daily/2023-05-01, Monday.md",
-    "Untitled.md",
     "🖋️ Periodic Notes/Daily",
     "🖋️ Periodic Notes",
     "Context/💻 Work.mdb",
@@ -187,7 +183,6 @@
     "Context/spacesLastSync.log",
     "Context",
     "Periodic Notes/Yearly",
-    "Day Planners",
     "Physical Health/Exercise Log/2023/W18",
     "Physical Health/Exercise Log/2023/W17",
     "Untitled.canvas",
