@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "f234f271c8209bf6",
+        "id": "e17c63148aa5c335",
         "type": "tabs",
         "children": [
           {
-            "id": "4145d0afa3df8491",
+            "id": "059c281ae1e96d18",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
+                "file": "Periodic Notes/Weekly/2023-W20.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -92,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Periodic Notes/Weekly/2023-W20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Periodic Notes/Weekly/2023-W20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +129,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Periodic Notes/Weekly/2023-W20.md"
+              }
             }
           },
           {
@@ -136,9 +141,17 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "a9435c696ee92ebe",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -148,7 +161,6 @@
     "hiddenItems": {
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-projects:Open projects": false,
-      "notion-like-tables:Create Notion-Like table": false,
       "meld-encrypt:Create new encrypted note": false,
       "obsidian-livesync:Replicate": false,
       "obsidian-livesync:Show log": false,
@@ -160,11 +172,31 @@
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4145d0afa3df8491",
+  "active": "059c281ae1e96d18",
   "lastOpenFiles": [
+    "Goals.md",
+    "Physical Health/Personal Records.md",
+    "Physical Health/2023/W20/2023-05-20, Saturday.md",
+    "Physical Health/2023/W20/2023-05-19, Friday.md",
+    "Physical Health/2023/W20/2023-05-17, Wednesday.md",
+    "Physical Health/2023/W19/2023-05-10, Wednesday.md",
+    "Physical Health/2023/W19/2023-05-09, Tuesday.md",
+    "Physical Health/2023/W19/2023-05-08, Monday.md",
+    "Physical Health/2023/W20/2023-05-15, Monday.md",
+    "Physical Health/2023/W20/2023-05-16, Tuesday.md",
+    "Physical Health/2023/W19/2023-05-13, Saturday.md",
+    "Untitled.table",
+    "Periodic Notes/Weekly/2023-W20.md",
+    "Excalidraw/Drawing 2023-05-14 13.15.03.excalidraw.md",
+    "Excalidraw",
+    "Physical Health/🧘‍♂️ Stretching moves.md",
+    "Physical Health/Exercise Log/2023/W20/@tomorrow.md",
+    "Physical Health/Exercise Log/Exercise Log.md",
+    "Physical Health/2023/W20",
     "Personal/pomodoro.md",
     "conflict-files-obsidian-git.md",
     "Sober Faction.md",
@@ -176,31 +208,12 @@
     "Personal/Mental Health/Unconditional Life-Acceptance.md",
     "Personal/Mental Health/Sober",
     "Personal/Mental Health/Holly.md",
-    "Personal/time blocking.md",
-    "Personal/task batch.md",
     "Personal/Mental Health",
-    "Personal/Bird Watching.md",
     "Personal",
-    "Periodic Notes/Daily/2023-05-14, Sunday.md",
-    "Periodic Notes/Daily/2023-05-13, Saturday.md",
-    "Day Planners/Day Planner-20230512.md",
     "Day Planners",
-    "pomodoro.md",
-    "Periodic Notes/Daily/2023-05-11, Thursday.md",
-    "Work/Stories/145443 - Backend Changes - One Item to Many Meetings.md",
-    "Work/Stories/139923 - SpsV2 -  Pipeline setup.md",
-    "Periodic Notes/Daily/2023-05-10, Wednesday.md",
-    "Physical Health/Exercise Log/2023/2023.md",
-    "Goals.md",
-    "Bird Watching.md",
-    "Periodic Notes/Daily/2023-05-09, Tuesday.md",
-    "Periodic Notes/Daily/2023-05-08, Monday.md",
     "🖋️ Periodic Notes/Daily",
     "🖋️ Periodic Notes",
     "Context/💻 Work.mdb",
-    "Physical Health/Exercise Log/2023/W19",
-    "Context/spacesLastSync.log",
-    "Context",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
