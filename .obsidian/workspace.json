@@ -11,11 +11,10 @@
             "id": "4145d0afa3df8491",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Sober Faction.md",
-                "mode": "source",
-                "source": false
+                "file": ".obsidian/workspace.json",
+                "staged": false
               }
             }
           }
@@ -129,9 +128,17 @@
               "type": "outline",
               "state": {}
             }
+          },
+          {
+            "id": "52d2e6ecf270c886",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -139,20 +146,45 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-projects:Open projects": false,
+      "notion-like-tables:Create Notion-Like table": false,
+      "meld-encrypt:Create new encrypted note": false,
+      "obsidian-livesync:Replicate": false,
+      "obsidian-livesync:Show log": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "dbfolder:Create a new database table": false,
+      "markdown-importer:Open format converter": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "workspaces:Manage workspace layouts": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "adef80c8f641c043",
+  "active": "4145d0afa3df8491",
   "lastOpenFiles": [
+    "Personal/pomodoro.md",
+    "conflict-files-obsidian-git.md",
+    "Sober Faction.md",
+    "Work/IDP.md",
+    "Personal/Mental Health/Sober/Sober Faction.md",
+    "Personal/Mental Health/Sober/SMART.md",
+    "Personal/Mental Health/Unconditional Self-Acceptance.md",
+    "Personal/Mental Health/Unconditional Other-Acceptance.md",
+    "Personal/Mental Health/Unconditional Life-Acceptance.md",
+    "Personal/Mental Health/Sober",
+    "Personal/Mental Health/Holly.md",
+    "Personal/time blocking.md",
+    "Personal/task batch.md",
+    "Personal/Mental Health",
+    "Personal/Bird Watching.md",
+    "Personal",
+    "Periodic Notes/Daily/2023-05-14, Sunday.md",
+    "Periodic Notes/Daily/2023-05-13, Saturday.md",
     "Day Planners/Day Planner-20230512.md",
     "Day Planners",
-    "Sober Faction.md",
     "pomodoro.md",
     "Periodic Notes/Daily/2023-05-11, Thursday.md",
     "Work/Stories/145443 - Backend Changes - One Item to Many Meetings.md",
@@ -163,28 +195,12 @@
     "Bird Watching.md",
     "Periodic Notes/Daily/2023-05-09, Tuesday.md",
     "Periodic Notes/Daily/2023-05-08, Monday.md",
-    "🐸 Frog.md",
-    "time blocking.md",
-    "task batch.md",
-    "🐸 Possible Frogs.md",
-    "Unconditional Life-Acceptance.md",
-    "Unconditional Other-Acceptance.md",
-    "Unconditional Self-Acceptance.md",
-    "SMART.md",
-    "Holly.md",
-    "Periodic Notes/Weekly/2023-W19.md",
-    "Periodic Notes/Daily/2023-05-04, Thursday.md",
-    "Periodic Notes/Daily/2023-05-05, Friday.md",
-    "Periodic Notes/Daily/2023-05-03, Wednesday.md",
     "🖋️ Periodic Notes/Daily",
     "🖋️ Periodic Notes",
     "Context/💻 Work.mdb",
     "Physical Health/Exercise Log/2023/W19",
     "Context/spacesLastSync.log",
     "Context",
-    "Periodic Notes/Yearly",
-    "Physical Health/Exercise Log/2023/W18",
-    "Physical Health/Exercise Log/2023/W17",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

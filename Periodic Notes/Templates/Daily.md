@@ -3,7 +3,8 @@
 
 ## Morning 
 - [ ] Let dogs pee
-- [ ] Drink stimulant and take medication
+- [ ] Drink stimulant
+- [ ] Take medication
 - [ ] Feed cats
 - [ ] Feed dogs
 - [ ] Fill animal waters
@@ -33,4 +34,6 @@
 
 ## Notes 
 
-##### Continuous 
+##### Continuous
+
+# [[Daily]]
