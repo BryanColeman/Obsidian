@@ -4,30 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "66292506e0a23a35",
+        "id": "b1f4540af02920bf",
         "type": "tabs",
         "children": [
           {
-            "id": "2dbede058a86e1d8",
+            "id": "47c39598fc8da36f",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "d2bb06505c9523b3",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "Periodic Notes/Weekly/2023-W20.md",
-                "staged": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -178,7 +166,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d2bb06505c9523b3",
+  "active": "47c39598fc8da36f",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Periodic Notes/Weekly/2023-W20.md",
