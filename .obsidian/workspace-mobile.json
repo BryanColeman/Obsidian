@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physical Health/2023/W20/2023-05-15, Monday.md",
+                "file": "Periodic Notes/Daily/2023-05-16, Tuesday.md",
                 "mode": "preview",
                 "source": false
               }
@@ -105,7 +105,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Physical Health/2023/W20/2023-05-15, Monday.md",
+            "file": "Periodic Notes/Daily/2023-05-16, Tuesday.md",
             "collapseAll": true,
             "extraContext": true,
             "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Physical Health/2023/W20/2023-05-15, Monday.md",
+            "file": "Periodic Notes/Daily/2023-05-16, Tuesday.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -134,7 +134,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Physical Health/2023/W20/2023-05-15, Monday.md"
+            "file": "Periodic Notes/Daily/2023-05-16, Tuesday.md"
           }
         }
       },
@@ -162,8 +162,6 @@
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-projects:Open projects": false,
       "meld-encrypt:Create new encrypted note": false,
-      "obsidian-livesync:Replicate": false,
-      "obsidian-livesync:Show log": false,
       "dbfolder:Create a new database table": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "markdown-importer:Open format converter": false,
@@ -177,9 +175,11 @@
   },
   "active": "01d73634fc7ded40",
   "lastOpenFiles": [
+    "Physical Health/2023/W20/2023-05-16, Tuesday.md",
+    "Periodic Notes/Daily/2023-05-16, Tuesday.md",
+    "Physical Health/2023/W20/2023-05-15, Monday.md",
     "Periodic Notes/Daily/2023-05-15, Monday.md",
     "Periodic Notes/Weekly/2023-W20.md",
-    "Physical Health/2023/W20/2023-05-15, Monday.md",
     "Periodic Notes/Templates/Daily Template.md",
     "Periodic Notes/Daily/2023-05-14, Sunday.md",
     "Periodic Notes/Daily/2023-05-10, Wednesday.md",
@@ -204,8 +204,6 @@
     "🐸 Possible Frogs.md",
     "Physical Health/Exercise Log/2023/W19/2023-05-09, Tuesday.md",
     "Personal/Mental Health/Holly.md",
-    "Personal/pomodoro.md",
-    "Personal/task batch.md",
     "/Context/spacesLastSync.log",
     ".md",
     "Periodic Notes/Yearly",
