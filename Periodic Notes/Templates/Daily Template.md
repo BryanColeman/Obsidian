@@ -36,4 +36,4 @@
 
 ##### Continuous
 
-# [[Daily]]
+# [[Daily Template]]
