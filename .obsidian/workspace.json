@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "b1f4540af02920bf",
+        "id": "b0b17aba3131559e",
         "type": "tabs",
         "children": [
           {
-            "id": "47c39598fc8da36f",
+            "id": "8a6e756916ee2b8e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Periodic Notes/Daily/2023-05-16, Tuesday.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Periodic Notes/Daily/2023-05-16, Tuesday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Periodic Notes/Daily/2023-05-16, Tuesday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +129,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Periodic Notes/Daily/2023-05-16, Tuesday.md"
+              }
             }
           },
           {
@@ -166,11 +174,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "47c39598fc8da36f",
+  "active": "52d2e6ecf270c886",
   "lastOpenFiles": [
+    "Periodic Notes/Daily/2023-05-16, Tuesday.md",
+    "Periodic Notes/Daily/2023-05-15, Monday.md",
+    "Excalidraw/Drawing 2023-05-14 13.15.03.excalidraw.md",
     "conflict-files-obsidian-git.md",
     "Periodic Notes/Weekly/2023-W20.md",
-    "Periodic Notes/Daily/2023-05-15, Monday.md",
     "Periodic Notes/Templates/Daily Template.md",
     "Periodic Notes/Daily/2023-05-14, Sunday.md",
     "Periodic Notes/Weekly/2023-W19.md",
@@ -188,7 +198,6 @@
     "Physical Health/2023/W20/2023-05-16, Tuesday.md",
     "Physical Health/2023/W19/2023-05-13, Saturday.md",
     "Untitled.table",
-    "Excalidraw/Drawing 2023-05-14 13.15.03.excalidraw.md",
     "Excalidraw",
     "Physical Health/🧘‍♂️ Stretching moves.md",
     "Physical Health/Exercise Log/2023/W20/@tomorrow.md",
@@ -196,7 +205,6 @@
     "Physical Health/2023/W20",
     "Personal/pomodoro.md",
     "Sober Faction.md",
-    "Work/IDP.md",
     "Personal/Mental Health/Sober",
     "Personal/Mental Health",
     "Personal",
