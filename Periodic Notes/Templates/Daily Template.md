@@ -19,9 +19,6 @@
 
 ## Workout
 
-## Whenever
-- [ ] Bird seeds
-
 ## Evening
 - [ ] CanPay spin
 - [ ] Plan tomorrow 

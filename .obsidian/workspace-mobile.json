@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Periodic Notes/Daily/2023-05-08, Monday.md",
+                "file": "Physical Health/2023/W20/2023-05-19, Friday.md",
                 "mode": "preview",
                 "source": false
               }
@@ -25,14 +25,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Periodic Notes/Daily/2023-05-16, Tuesday.md",
+                "file": "Periodic Notes/Daily/2023-05-17, Wednesday.md",
                 "mode": "preview",
                 "source": false
               }
-            }
+            },
+            "group": "0d49031017f696e3"
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "1a1504802e5ab0ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d547524961edd406",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Periodic Notes/Daily/2023-05-17, Wednesday.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            },
+            "group": "0d49031017f696e3"
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,7 +129,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Periodic Notes/Daily/2023-05-16, Tuesday.md",
+            "file": "Physical Health/2023/W20/2023-05-19, Friday.md",
             "collapseAll": true,
             "extraContext": true,
             "sortOrder": "alphabetical",
@@ -122,7 +146,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Periodic Notes/Daily/2023-05-16, Tuesday.md",
+            "file": "Physical Health/2023/W20/2023-05-19, Friday.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -134,7 +158,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Periodic Notes/Daily/2023-05-16, Tuesday.md"
+            "file": "Physical Health/2023/W20/2023-05-19, Friday.md"
           }
         }
       },
@@ -173,37 +197,37 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "01d73634fc7ded40",
+  "active": "e29afaca5ba4ea2a",
   "lastOpenFiles": [
-    "Physical Health/2023/W20/2023-05-16, Tuesday.md",
+    "Periodic Notes/Daily/2023-05-19, Friday.md",
+    "Physical Health/2023/W20/2023-05-19, Friday.md",
+    "Periodic Notes/Weekly/2023-W20.md",
+    "Periodic Notes/Daily/2023-05-18, Thursday.md",
+    "Periodic Notes/Daily/2023-05-17, Wednesday.md",
+    "Physical Health/2023/W20/2023-05-17, Wednesday.md",
+    "Periodic Notes/Daily/2023-05-08, Monday.md",
+    "Work/Stories/139923 - SpsV2 -  Pipeline setup.md",
     "Periodic Notes/Daily/2023-05-16, Tuesday.md",
+    "Physical Health/2023/W20/2023-05-16, Tuesday.md",
+    "🐸 Frog.md",
+    "Periodic Notes/Templates/Daily Template.md",
     "Physical Health/2023/W20/2023-05-15, Monday.md",
     "Periodic Notes/Daily/2023-05-15, Monday.md",
-    "Periodic Notes/Weekly/2023-W20.md",
-    "Periodic Notes/Templates/Daily Template.md",
     "Periodic Notes/Daily/2023-05-14, Sunday.md",
     "Periodic Notes/Daily/2023-05-10, Wednesday.md",
     "Periodic Notes/Daily/2023-05-11, Thursday.md",
     "Periodic Notes/Daily/2023-05-09, Tuesday.md",
-    "Periodic Notes/Daily/2023-05-08, Monday.md",
     "Periodic Notes/Weekly/2023-W19.md",
     "Physical Health/Exercise Log/2023/W19/2023-05-13, Saturday.md",
     "Periodic Notes/Daily/2023-05-13, Saturday.md",
     "Personal/time blocking.md",
     "Personal/Mental Health/Unconditional Self-Acceptance.md",
-    "🐸 Frog.md",
     "Untitled.md",
     "Personal/Mental Health/Sober",
     "Personal",
     "Personal/Mental Health",
     "/Periodic Notes/Daily/2023-05-11, Thursday.md",
     "Goals.md",
-    "Personal/Bird Watching.md",
-    "Physical Health/Exercise Log/2023/W19/2023-05-10, Wednesday.md",
-    "conflict-files-obsidian-git.md",
-    "🐸 Possible Frogs.md",
-    "Physical Health/Exercise Log/2023/W19/2023-05-09, Tuesday.md",
-    "Personal/Mental Health/Holly.md",
     "/Context/spacesLastSync.log",
     ".md",
     "Periodic Notes/Yearly",
