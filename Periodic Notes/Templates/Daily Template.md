@@ -29,8 +29,6 @@
 
 ## Dinner
 
-## Notes 
-
-##### Continuous
+## Notes
 
 # [[Daily Template]]
