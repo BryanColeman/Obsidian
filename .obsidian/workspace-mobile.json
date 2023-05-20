@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Periodic Notes/Daily/2023-05-19, Friday.md",
-                "mode": "preview",
+                "file": "Periodic Notes/Daily/2023-05-20, Saturday.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -129,7 +129,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Periodic Notes/Daily/2023-05-19, Friday.md",
+            "file": "Periodic Notes/Daily/2023-05-20, Saturday.md",
             "collapseAll": true,
             "extraContext": true,
             "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Periodic Notes/Daily/2023-05-19, Friday.md",
+            "file": "Periodic Notes/Daily/2023-05-20, Saturday.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -158,7 +158,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Periodic Notes/Daily/2023-05-19, Friday.md"
+            "file": "Periodic Notes/Daily/2023-05-20, Saturday.md"
           }
         }
       },
@@ -179,7 +179,7 @@
         }
       }
     ],
-    "currentTab": 4
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,8 +199,9 @@
   },
   "active": "e29afaca5ba4ea2a",
   "lastOpenFiles": [
-    "Periodic Notes/Templates/Daily Template.md",
     "Periodic Notes/Daily/2023-05-19, Friday.md",
+    "Periodic Notes/Daily/2023-05-20, Saturday.md",
+    "Periodic Notes/Templates/Daily Template.md",
     "Physical Health/2023/W20/2023-05-20, Saturday.md",
     "Physical Health/2023/W20/2023-05-19, Friday.md",
     "Periodic Notes/Weekly/2023-W20.md",
@@ -227,7 +228,6 @@
     "Personal/Mental Health/Sober",
     "Personal",
     "Personal/Mental Health",
-    "/Periodic Notes/Daily/2023-05-11, Thursday.md",
     "/Context/spacesLastSync.log",
     ".md",
     "Periodic Notes/Yearly",
