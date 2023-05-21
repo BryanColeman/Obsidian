@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🐸 Frog.md",
+                "file": "Goals.md",
                 "mode": "preview",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🐸 Frog.md",
+                "file": "Goals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "🐸 Frog.md",
+            "file": "Goals.md",
             "collapseAll": true,
             "extraContext": true,
             "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "🐸 Frog.md",
+            "file": "Goals.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -146,7 +146,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "🐸 Frog.md"
+            "file": "Goals.md"
           }
         }
       },
@@ -187,8 +187,18 @@
   },
   "active": "01d73634fc7ded40",
   "lastOpenFiles": [
-    "Personal/Mental Health/Sober/Sober Faction.md",
+    "Personal/Keys.md",
+    "Excalidraw/Drawing 2023-05-14 13.15.03.excalidraw.md",
+    "Personal/1 Percent Better.md",
+    "Personal/Mental Health/Internal Family Systems.md",
+    "Goals.md",
+    "Personal/Smart Home Gazette.md",
     "🐸 Frog.md",
+    "Personal/Books 📚.md",
+    "Personal/Movies 🍿.md",
+    "Personal/Rat food mix.md",
+    "Personal/Books 📚",
+    "Personal/Mental Health/Sober/Sober Faction.md",
     "Physical Health/2023/W21/2023-05-27, Saturday.md",
     "Physical Health/Personal Records.md",
     "Physical Health/2023/W21/2023-05-26, Friday.md",
@@ -206,22 +216,12 @@
     "Periodic Notes/Daily/2023-04-29, Saturday.md",
     "Periodic Notes/Daily/2023-04-30, Sunday.md",
     "Periodic Notes/Weekly/2023-W18.md",
-    "Periodic Notes/Daily/2023-05-01, Monday.md",
-    "Periodic Notes/Daily/2023-05-02, Tuesday.md",
-    "Periodic Notes/Daily/2023-05-03, Wednesday.md",
-    "Periodic Notes/Daily/2023-05-04, Thursday.md",
-    "Periodic Notes/Daily/2023-05-06, Saturday.md",
-    "Periodic Notes/Daily/2023-05-07, Sunday.md",
-    "Periodic Notes/Weekly/2023-W19.md",
-    "Periodic Notes/Daily/2023-05-08, Monday.md",
-    "Periodic Notes/Daily/2023-05-09, Tuesday.md",
     "Personal/Mental Health/Sober",
     "Personal",
     "Personal/Mental Health",
     "/Context/spacesLastSync.log",
     ".md",
     "Periodic Notes/Yearly",
-    "Periodic Notes/Weekly",
-    "Periodic Notes/Templates"
+    "Periodic Notes/Weekly"
   ]
 }
