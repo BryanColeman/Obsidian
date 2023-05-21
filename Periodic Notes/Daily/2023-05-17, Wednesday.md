@@ -31,7 +31,7 @@
 
 
 ## Workout
-[[Physical Health/2023/W20/2023-05-17, Wednesday|2023-05-17, Wednesday]]
+[[Physical Health/2023/Archive/W20/2023-05-17, Wednesday|2023-05-17, Wednesday]]
 
 
 

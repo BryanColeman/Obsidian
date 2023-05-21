@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e29afaca5ba4ea2a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Periodic Notes/Daily/2023-05-20, Saturday.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "01d73634fc7ded40",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Periodic Notes/Daily/2023-05-17, Wednesday.md",
+                "file": "🐸 Frog.md",
                 "mode": "preview",
                 "source": false
               }
@@ -44,7 +32,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Periodic Notes/Daily/2023-05-17, Wednesday.md",
+                "file": "🐸 Frog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +117,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Periodic Notes/Daily/2023-05-20, Saturday.md",
+            "file": "🐸 Frog.md",
             "collapseAll": true,
             "extraContext": true,
             "sortOrder": "alphabetical",
@@ -146,7 +134,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Periodic Notes/Daily/2023-05-20, Saturday.md",
+            "file": "🐸 Frog.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -158,7 +146,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Periodic Notes/Daily/2023-05-20, Saturday.md"
+            "file": "🐸 Frog.md"
           }
         }
       },
@@ -197,34 +185,36 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e29afaca5ba4ea2a",
+  "active": "01d73634fc7ded40",
   "lastOpenFiles": [
-    "Physical Health/2023/W20/2023-05-20, Saturday.md",
-    "Periodic Notes/Daily/2023-05-20, Saturday.md",
-    "Periodic Notes/Daily/2023-05-19, Friday.md",
-    "Periodic Notes/Templates/Daily Template.md",
-    "Physical Health/2023/W20/2023-05-19, Friday.md",
-    "Periodic Notes/Weekly/2023-W20.md",
-    "Periodic Notes/Daily/2023-05-18, Thursday.md",
+    "Physical Health/2023/W21/2023-05-27, Saturday.md",
+    "Physical Health/Personal Records.md",
+    "Physical Health/2023/W21/2023-05-26, Friday.md",
+    "Physical Health/2023/W21/2023-05-24, Wednesday.md",
+    "Physical Health/🧘‍♂️ Stretching moves.md",
+    "Physical Health/2023/W21/2023-05-23, Tuesday.md",
+    "Physical Health/2023/W21/2023-05-22, Monday.md",
+    "Periodic Notes/Weekly/2023-W21.md",
     "Periodic Notes/Daily/2023-05-17, Wednesday.md",
-    "Physical Health/2023/W20/2023-05-17, Wednesday.md",
+    "Physical Health/2023/W21/Untitled.md",
+    "Periodic Notes/Daily/2023-05-20, Saturday.md",
+    "Untitled.md",
+    "Physical Health/2023/W21",
+    "Physical Health/2023/Archive",
+    "Periodic Notes/Daily/2023-04-29, Saturday.md",
+    "Periodic Notes/Daily/2023-04-30, Sunday.md",
+    "Periodic Notes/Weekly/2023-W18.md",
+    "Periodic Notes/Daily/2023-05-01, Monday.md",
+    "Periodic Notes/Daily/2023-05-02, Tuesday.md",
+    "Periodic Notes/Daily/2023-05-03, Wednesday.md",
+    "Periodic Notes/Daily/2023-05-04, Thursday.md",
+    "Periodic Notes/Daily/2023-05-06, Saturday.md",
+    "Periodic Notes/Daily/2023-05-07, Sunday.md",
+    "Periodic Notes/Weekly/2023-W19.md",
     "Periodic Notes/Daily/2023-05-08, Monday.md",
-    "Work/Stories/139923 - SpsV2 -  Pipeline setup.md",
-    "Periodic Notes/Daily/2023-05-16, Tuesday.md",
-    "Physical Health/2023/W20/2023-05-16, Tuesday.md",
-    "🐸 Frog.md",
-    "Physical Health/2023/W20/2023-05-15, Monday.md",
-    "Periodic Notes/Daily/2023-05-15, Monday.md",
-    "Periodic Notes/Daily/2023-05-14, Sunday.md",
+    "Periodic Notes/Daily/2023-05-09, Tuesday.md",
     "Periodic Notes/Daily/2023-05-10, Wednesday.md",
     "Periodic Notes/Daily/2023-05-11, Thursday.md",
-    "Periodic Notes/Daily/2023-05-09, Tuesday.md",
-    "Periodic Notes/Weekly/2023-W19.md",
-    "Physical Health/Exercise Log/2023/W19/2023-05-13, Saturday.md",
-    "Periodic Notes/Daily/2023-05-13, Saturday.md",
-    "Personal/time blocking.md",
-    "Personal/Mental Health/Unconditional Self-Acceptance.md",
-    "Untitled.md",
     "Personal/Mental Health/Sober",
     "Personal",
     "Personal/Mental Health",
@@ -232,8 +222,6 @@
     ".md",
     "Periodic Notes/Yearly",
     "Periodic Notes/Weekly",
-    "Periodic Notes/Templates",
-    "Periodic Notes/Quarterly",
-    "Periodic Notes/Monthly"
+    "Periodic Notes/Templates"
   ]
 }

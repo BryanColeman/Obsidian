@@ -21,7 +21,7 @@
 3:30 Philip 1-1
 
 ## Workout
-[[Physical Health/2023/W19/2023-05-10, Wednesday|2023-05-10, Wednesday]]
+[[Physical Health/2023/Archive/W19/2023-05-10, Wednesday|2023-05-10, Wednesday]]
 
 ## Whenever
 - [ ] Bird seeds
