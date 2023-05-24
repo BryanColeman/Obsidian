@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Periodic Notes/Templates/Daily Template.md",
+                "file": "🐸 Frog.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "c65e750334388646",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Periodic Notes/Templates/Daily Template.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252.5,
-    "collapsed": true
+    "width": 252.5
   },
   "right": {
     "id": "5b682cf4169076f3",
@@ -162,9 +174,7 @@
   "left-ribbon": {
     "hiddenItems": {
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-projects:Open projects": false,
       "meld-encrypt:Create new encrypted note": false,
-      "obsidian-advanced-slides:Show Slide Preview": false,
       "dbfolder:Create a new database table": false,
       "markdown-importer:Open format converter": false,
       "switcher:Open quick switcher": false,
@@ -176,8 +186,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "8a6e756916ee2b8e",
+  "active": "c65e750334388646",
   "lastOpenFiles": [
+    "Goals.md",
+    "🐸 Frog.md",
+    "Periodic Notes/Templates/Daily Template.md",
     "Periodic Notes/Daily/2023-05-16, Tuesday.md",
     "Physical Health/2023/W21/2023-05-27, Saturday.md",
     "Physical Health/2023/W21/2023-05-24, Wednesday.md",
@@ -202,9 +215,6 @@
     "Physical Health/2023/Archive/W17/04-29-2023, Saturday.md",
     "Physical Health/2023/Archive/W17/04-28-2023, Friday.md",
     "Physical Health/2023/Archive/W18/05-01-2023, Monday.md",
-    "Physical Health/2023/Archive/W17/04-26-2023, Wednesday.md",
-    "Physical Health/2023/Archive/W17/04-25-2023, Tuesday.md",
-    "Physical Health/2023/Archive/W17/04-24-2023, Monday.md",
     "Physical Health/2023/Archive/W20",
     "Physical Health/2023/Archive/W19",
     "Physical Health/2023/Archive/W18",
